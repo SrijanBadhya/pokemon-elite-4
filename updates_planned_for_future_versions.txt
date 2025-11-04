@@ -1,0 +1,84 @@
+Remember to code something later that finds out how many types of moves a mon has (not coverage they apply on, but simply how many types of moves it has. The mons with less types of moves are harder to use in the gauntlet eventually, they'll be rarely picked by the code. So in the chance that they are picked by the code, highly prioritize using  them (like articuno). So try to sort them super high)
+
+
+You can call this, "Niche pokemon for whom these 4 types are the perfect niche"
+
+
+
+
+
+
+maybe make a list of slow mons with priority moves later? or just mons with priority moves. So that extreme speed etc can be included
+
+map the moves to the mons, so that maybe later we can just randomly filter the mons with priority moves who generally have coverage against the elite 4
+
+oh wait, maybe we can make a column for mons called, "Priority", and inside that we can put in a list of the priority moves they have, others will be null
+
+so then in our regular filter we can just see good e4 mons, and also particularly see the good e4 mons which have priority
+
+
+
+
+
+	
+
+
+
+
+find a way to sort mons such that mons with broaaaaad matching coverage have lower priority, and mons with specific coverage towards the particular e4 are higher priority. 
+Cuz like florges has only bug, psychic, grass, and fairy moves, so the moment you get an elite aligned towards these types, we badly want to use florges cuz it won't get much opportunity otherwise
+
+
+okay I'm deciding on the physical special split by using base stats. Also sorting the mons based on base stats.
+I want to give some higher weightage to huge power, iron fist, and sheer force.
+
+
+
+
+
+[fling, pursuit, rock tomb, bulldoze, dig]
+
+Mark these better as, "Non sweepable moves". That's more accurate for something like bulldoze, because even if you can beat one mon with double bulldoze, you can't beat a second.
+
+Try to have something which still allows for z moves like solarbeam 
+
+
+
+
+
+
+
+
+create a filter later so that moves that rely on the significantly weaker stat can be removed if desired
+
+so then that means we create a column for a pokemon, which states its dominant offense, and if no dominant offense then it's empty
+
+my latest idea on this is to add the physical and special attack of every mon, and sort based on this.
+
+remember to somehow let counter and mirror coat and metal burst maybe remain unfiltered as strong moves
+
+maybe we should remember when even special attackers have moves like uturn, or physical attackers have moves like volt switch Both of these should count as supereffective good moves because the BP exceeds 60.
+
+I should actually create a whole ass column called pivot which shows when a mon has a pivot move or not, and what this/these priority move is/are This requires me to type in uturn for a bunch of bugs too. (and volt switch/flip turn). Also need to code in parting shot, a non offensive move.
+
+and priority moves also should be available to both, cuz the point is usually just to break sash you know what, maybe I should make a column called priority and add in all the normal priority moves like quick attack too. I probably won't add grassy glide, but I'll force add Comfey's draining moves as priority particulary for it.
+
+do all these complicated actions with df.query
+
+one filter should also make sure that a type is stab supereffective for a mon (but also remember that freeze dry is electric type and needs to be counted as stab)
+
+vectorized method usually means you create another column, like df['result']=df[first] + df[second]
+
+Also don't heavily deprioritize solar beam and stuff, cuz z moves are a thing. Maybe mention it in your application that the recommended strategy is to z move
+
+
+
+
+
+
+
+
+
+
+copy paste technician mons before and after all the move deletions so that they don't lose their moves
+Also Strong Jaw mons and stuff ig
