@@ -23,11 +23,60 @@ Also don't heavily deprioritize solar beam and stuff, cuz z moves are a thing. M
 
 Mark these better as, "Non sweepable moves". That's more accurate for something like bulldoze, because even if you can beat one mon with double bulldoze, you can't beat a second.
 
+Alongside this 'non sweepable moves' thing, print a list before every table, so that I know which moves are included in this table.
+
+
 Try to have something which still allows for z moves like solarbeam 
 
 
 
-For version 3.0:
+
+
+Now that I think about it, some moves should have a category that says 'ignored by'.
+so dynamic punch missing is ignored by no guard. Low base power is ignored by technician. (and sometimes by strong jaw, sheer force, etc)
+
+
+hmmm okay the tables should be printed again and again through a function. a function which inputs the current dataframe and the selection criteria.
+I think current dataframe should update itself over and over since mons are getting subtracted from it each time.
+
+
+
+OKAY, IF A MON ALREAY GETS GRASS KNOT, I STILL WANT SOLARBEAM TO BE VISIBLE. 
+THIS MEANS I MASK THE COPY OF THE DATABASE, AND THEN DON'T ACCESS THIS MASK WHEN PRINTING, I ACTUALLY ACCESS THE ROW OF THE ORIGINAL DATABASE WHILE PRINTING. 
+Yes this means that fling pursuit are gonna get printed everytime too, but I'll take it over printing the mons again and again each table.
+
+
+okay this is the order of the tables:
+
+
+
+
+moves which require a condition before they're spammable (acrobatics, belch)
+
+
+moves which appreciate loaded dice/ skill link
+
+hit back moves (avalanche, revenge, I think payback, look at others)
+
+
+
+
+Version 3.0
+
+
+
+IN EVERY TABLE, SORT BY 3 THINGS (because I can't be bothered to do permutation combination and do so many different tables.)
+
+
+Sort by stab. This means that mons with both types super effective on the 4 elite should be at the top of the tables, mons with one type supereffective should be in the middle, and mons with none should be at the bottom.
+
+
+Keep in mind that freeze dry is electric type. (tbh maybe this isn't so consequential after all)
+
+
+GROUP THE MOVES BY TYPES SO THAT ALL DARK MOVES ARE TOGETHER, FAIRY MOVES ARE TOGETHER, ETC.
+
+For version 4.0:
 
 
 
