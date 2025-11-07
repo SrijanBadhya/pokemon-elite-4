@@ -46,10 +46,12 @@ THIS MEANS I MASK THE COPY OF THE DATABASE, AND THEN DON'T ACCESS THIS MASK WHEN
 Yes this means that fling pursuit are gonna get printed everytime too, but I'll take it over printing the mons again and again each table.
 
 
+I similarly want the full typing of the mon to be visible even if its typing isn't offensively super effective (cuz I often need a fire type to resist fairies, etc.
+
 okay this is the order of the tables:
 
 
-
+stab/nonstab
 
 moves which require a condition before they're spammable (acrobatics, belch)
 
@@ -57,6 +59,7 @@ moves which require a condition before they're spammable (acrobatics, belch)
 moves which appreciate loaded dice/ skill link
 
 hit back moves (avalanche, revenge, I think payback, look at others)
+
 
 
 
@@ -72,6 +75,12 @@ Sort by stab. This means that mons with both types super effective on the 4 elit
 
 
 Keep in mind that freeze dry is electric type. (tbh maybe this isn't so consequential after all)
+
+
+Once you've sorted by stab, sort by the 
+
+
+
 
 
 GROUP THE MOVES BY TYPES SO THAT ALL DARK MOVES ARE TOGETHER, FAIRY MOVES ARE TOGETHER, ETC.
