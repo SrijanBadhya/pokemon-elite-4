@@ -61,7 +61,8 @@ moves which appreciate loaded dice/ skill link
 hit back moves (avalanche, revenge, I think payback, look at others)
 
 
-
+sort by accuracy needed.  being purely dependent on 100% accurate moves is one region, having 85-95 is another region, and 80 and below is a third region.
+find a way to consider compound eyes in a future update.
 
 
 Version 3.0
