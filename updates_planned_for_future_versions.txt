@@ -65,6 +65,19 @@ sort by accuracy needed.  being purely dependent on 100% accurate moves is one r
 find a way to consider compound eyes in a future update.
 
 
+
+
+
+
+print who the physical mons are, who the special mons are (well maybe stat is enough but idk)
+and print the full types of mons, and also have the current columns of the useful types of mons
+
+
+
+
+Things like Lucario should be spared. Lucario can choose one stat and nature it too.
+
+
 Version 3.0
 
 

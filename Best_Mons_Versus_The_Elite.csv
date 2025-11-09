@@ -1,236 +1,338 @@
-Name,MonType1,MonType2,MonType3,Tier,In Wishlist,Used,Trash,Useful_Attributes
-Abomasnow,Grass,Ice,,RU,,,,"Grass, Ice, Iron Tail, Rock Slide, Earthquake, Earth Power, Shadow Ball"
-Accelgor,Bug,,,RU,,,,"Bug, Water Shuriken, Sludge Bomb, Venoshock, Energy Ball, Knock Off"
-Aerodactyl,Rock,,,RU,,,,"Rock, Aqua Tail, Iron Head, Ice Fang, Earthquake, Earth Power, Crunch, Payback"
-Aggron,Steel,Rock,,RU,,Yes,,"Steel, Rock, Aqua Tail, Surf, Avalanche, Ice Punch, Ice Beam, Earthquake, Earth Power, Shadow Claw, Crunch, Payback, Dark Pulse, Payback"
-Ambipom,,,,RU,,,,"Chilling Water, Iron Tail, Smack Down, Gunk Shot, Ice Punch, Triple Axel, Seed Bomb, Trailblaze, Grass Knot, Shadow Claw, Shadow Ball, Foul Play, Knock Off, Payback, Throat Chop, Payback, Beat Up, Uturn, Fury Cutter"
-Amoonguss,Grass,Poison,,RU,,,,"Grass, Poison, Stomping Tantrum, Hex, Foul Play, Payback, Pollen Puff"
-Ampharos,,,,RU,,,,"Iron Tail, Power Gem, Meteor Beam, Ice Punch, Stomping Tantrum, Signal Beam"
-Appletun,Grass,,,RU,,,Yes,"Grass, Gyro Ball, Iron Head, Heavy Slam, Earthquake, Sucker Punch, Payback"
-Araquanid,Water,Bug,,RU,,,,"Water, Bug, Poison Jab, Ice Beam, Aurora Beam, Giga Drain, Crunch"
-Arbok,Poison,,,RU,,,,"Poison, Aqua Tail, Iron Tail, Rock Slide, Ice Fang, Earthquake, Mud Bomb, Seed Bomb, Giga Drain, Crunch, Knock Off, Sucker Punch, Payback, Dark Pulse, Throat Chop, Beat Up, Leech Life, Skitter Smack"
-Arcanine,,,,RU,,,,"Iron Head, Iron Tail, Scorching Sands, Scorching Sands, Solar Beam, Crunch"
-Arcanine-Hisui,,Rock,,RU,,,,"Rock, Iron Head, Smart Strike, Scorching Sands, Solar Beam, Crunch"
-Archeops,Rock,,,RU,,,,"Rock, Aqua Tail, Iron Tail, Steel Wing, Earthquake, Earth Power, Shadow Claw, Crunch, Knock Off, Lash Out, Uturn"
-Arctovish,Water,Ice,,RU,,,,"Water, Ice, Iron Head, Meteor Beam, Rock Slide, Stone Edge, Rock Blast, Crunch"
-Arctozolt,,Ice,,RU,,,,"Ice, Hydro Pump, Surf, Iron Tail, Rock Slide, Stone Edge, Meteor Beam, Rock Blast, Stomping Tantrum, Payback"
-Ariados,Bug,Poison,,RU,,,Yes,"Bug, Poison, Smart Strike, Stomping Tantrum, Stomping Tantrum, Solar Beam, Giga Drain, Shadow Sneak, Foul Play, Knock Off, Sucker Punch, Throat Chop, Night Slash"
-Armaldo,Rock,Bug,,RU,,,,"Rock, Bug, Aqua Jet, Liquidation, Aqua Tail, Iron Tail, Cross Poison, Earthquake, Earth Power, Shadow Claw, Knock Off"
-Armarouge,,,,RU,,,,"Flash Cannon, Meteor Beam, Scorching Sands, Energy Ball, Solar Beam, Shadow Ball, Dark Pulse"
-Articuno,Ice,,,RU,,,,"Ice, Bubble Beam, Steel Wing, Signal Beam, Uturn"
-Audino,,,,RU,,,,"Surf, Iron Tail, Ice Beam, Ice Punch, Stomping Tantrum, Grass Knot, Solar Beam, Shadow Ball, Knock Off, Throat Chop, Signal Beam"
-Aurorus,Rock,Ice,,RU,,,,"Rock, Ice, Flash Cannon, Iron Head, Iron Tail, Earth Power, Earthquake, Dark Pulse"
-Avalugg,Ice,,,RU,,,,"Ice, Gyro Ball, Heavy Slam, Iron Head, Flash Cannon, Rock Slide, Stone Edge, Earthquake, Crunch"
-Avalugg-Hisui,Ice,Rock,,RU,,Yes,,"Ice, Rock, Surf, Gyro Ball, Heavy Slam, Iron Head, Flash Cannon, Earthquake, Crunch"
-Azumarill,Water,,,RU,,,,"Water, Iron Tail, Ice Beam, Ice Spinner, Ice Punch, Grass Knot, Knock Off"
-Barbaracle,Rock,Water,,RU,,,,"Rock, Water, Poison Jab, Sludge Bomb, Sludge Wave, Ice Beam, Earthquake, Grass Knot, Shadow Claw, Night Slash, Payback, Payback, Beat Up, X Scissor"
-Barraskewda,Water,,,RU,,,,"Water, Poison Jab, Ice Fang, Ice Beam, Drill Run, Crunch, Throat Chop, Night Slash"
-Bastiodon,Rock,Steel,,RU,Yes,,,"Rock, Steel, Avalanche, Ice Beam, Earthquake, Scorching Sands, Earth Power, Foul Play"
-Beartic,Ice,,,RU,,Yes,,"Ice, Aqua Jet, Liquidation, Surf, Dive, Brine, Heavy Slam, Hard Press, Rock Slide, Stone Edge, Earthquake, Grass Knot, Shadow Claw, Crunch, Throat Chop, Night Slash, X Scissor"
-Beedrill,Bug,Poison,,RU,,,,"Bug, Poison, Drill Run, Solar Beam, Knock Off, Throat Chop, Payback"
-Beheeyem,,,,RU,Yes,,,"Flash Cannon, Steel Wing, Meteor Beam, Rock Slide, Energy Ball, Shadow Ball, Dark Pulse, Signal Beam"
-Bewear,,,,RU,Yes,,,"Iron Head, Rock Slide, Ice Punch, Earthquake, Shadow Claw, Darkest Lairat, Payback"
-Bibarel,,Water,,RU,,,Yes,"Water, Iron Tail, Ice Beam, Stomping Tantrum, Grass Knot, Shadow Ball, Crunch"
-Blastoise,Water,,,RU,Yes,,,"Water, Flash Cannon, Iron Tail, Gyro Ball, Rock Slide, Ice Beam, Ice Spinner, Ice Punch, Avalanche, Earthquake, Crunch, Dark Pulse, Signal Beam"
-Breloom,Grass,,,RU,,,,"Grass, Rock Slide, Stone Edge, Gunk Shot, Poison Jab, Sludge Bomb, Venoshock, Pounce"
-Bronzong,Steel,,,RU,,,,"Steel, Power Gem, Rock Slide, Meteor Beam, Rock Blast, Ice Spinner, Earthquake, Grass Knot, Solar Beam, Shadow Ball, Hex, Payback, Signal Beam"
-Brute Bonnet,Grass,Dark,,RU,,,,"Grass, Dark, Venoshock, Stomping Tantrum, Earth Power, Hex, Pollen Puff"
-Bruxish,Water,,,RU,,,,"Water, Iron Tail, Poison Fang, Venoshock, Ice Fang, Ice Beam, Crunch, Payback, Signal Beam"
-Cacturne,Grass,Dark,,RU,,,,"Grass, Dark, Poison Jab, Belch, Venoshock, Stomping Tantrum, Shadow Ball, Lunge, Pin Missile, Skitter Smack"
-Camerupt,,Ground,,RU,,,,"Ground, Flash Cannon, Iron Head, Heavy Slam, Rock Slide, Stone Edge, Solar Beam, Lash Out"
-Carracosta,Water,Rock,,RU,,,,"Water, Rock, Iron Head, Iron Tail, Ice Beam, Earthquake, Earth Power, Crunch, Knock Off"
-Centiskorch,,Bug,,RU,,,,"Bug, Scald, Venoshock, Scorching Sands, Power Whip, Solar Beam, Crunch, Knock Off"
-Cetitan,Ice,,,RU,,,,"Ice, Liquidation, Heavy Slam, Hard Press, Earthquake, Knock Off"
-Charizard,,,,RU,,,,"Iron Tail, Rock Slide, Earthquake, Scorching Sands, Solar Beam, Shadow Claw, Crunch, Beat Up"
-Chesnaught,Grass,,,RU,,,,"Grass, Iron Head, Gyro Ball, Iron Tail, Rock Slide, Stone Edge, Poison Jab, Earthquake, Shadow Claw, Crunch, Knock Off, Payback, Pin Missile"
-Cinccino,,,,RU,,,,"Chilling Water, Iron Tail, Rock Blast, Gunk Shot, Ice Spinner, Triple Axel, Seed Bomb, Trailblaze, Bullet Seed, Grass Knot, Knock Off, Thief, Uturn"
-Clawitzer,Water,,,RU,,,,"Water, Flash Cannon, Iron Tail, Rock Slide, Sludge Bomb, Sludge Wave, Venoshock, Ice Beam, Shadow Ball, Dark Pulse, Uturn"
-Claydol,Ground,,,RU,,,,"Ground, Gyro Ball, Rock Slide, Stone Edge, Ice Beam, Grass Knot, Solar Beam, Hex, Shadow Ball, Signal Beam"
-Cloyster,Water,Ice,,RU,,Yes,,"Water, Ice, Rock Blast, Poison Jab, Drill Run, Payback, Pin Missile, Signal Beam"
-Copperajah,Steel,,,RU,,,,"Steel, Rock Slide, Stone Edge, Rock Blast, Belch, Earthquake, Earth Power, Power Whip, Knock Off, Payback"
-Crabominable,,Ice,,RU,,,,"Ice, Crabhammer, Liquidation, Liquidation, Iron Head, Hard Press, Rock Slide, Stone Edge, Gunk Shot, Earthquake, Knock Off, Payback, Payback"
-Cramorant,,Water,,RU,,,,"Water, Steel Wing, Belch, Ice Beam, Throat Chop"
-Crawdaunt,Water,Dark,,RU,,,,"Water, Dark, Hard Press, Rock Slide, Sludge Bomb, Sludge Wave, Avalanche, Ice Beam, Lash Out, X Scissor"
-Crustle,Bug,Rock,,RU,,,,"Bug, Rock, Heavy Slam, Poison Jab, Earthquake, Solar Beam, Solar Blade, Shadow Claw, Knock Off, Night Slash"
-Cyclizar,,,,RU,,,,"Aqua Tail, Iron Head, Iron Tail, Ice Spinner, Power Whip, Crunch, Knock Off, Uturn"
-Delcatty,,,,RU,,,,"Iron Tail, Ice Beam, Stomping Tantrum, Mud Bomb, Grass Knot, Solar Beam, Shadow Ball, Sucker Punch, Payback"
-Delibird,Ice,,,RU,,,Yes,"Ice, Steel Wing, Gunk Shot, Drill Run, Seed Bomb, Foul Play"
-Delphox,,,,RU,,,,"Iron Tail, Scorching Sands, Grass Knot, Solar Beam, Shadow Ball, Hex, Foul Play, Signal Beam"
-Deoxys-Defense,,,,RU,,,,"Meteor Mash, Flash Cannon, Meteor Beam, Rock Slide, Poison Jab, Ice Beam, Ice Punch, Stomping Tantrum, Grass Knot, Solar Beam, Energy Ball, Shadow Ball, Dark Pulse, Throat Chop, Knock Off, Signal Beam"
-Dewgong,Water,Ice,,RU,,,,"Water, Ice, Iron Tail, Smart Strike, Belch, Drill Run, Knock Off, Megahorn, Signal Beam"
-Dhelmise,Ghost,Grass,Steel,RU,,,,"Ghost, Grass, Steel, Hydro Pump, Liquidation, Surf, Brine, Gyro Ball, Heavy Slam, Iron Head, Rock Slide, Sludge Wave, Knock Off, Payback"
-Diggersby,,Ground,,RU,,,,"Ground, Surf, Iron Tail, Iron Head, Stone Edge, Rock Slide, Gunk Shot, Sludge Bomb, Ice Punch, Grass Knot, Foul Play, Knock Off, Payback, Uturn"
-Donphan,Ground,,,RU,,Yes,,"Ground, Gyro Ball, Heavy Slam, Iron Tail, Iron Head, Smart Strike, Head Smash, Stone Edge, Rock Slide, Gunk Shot, Poison Jab, Ice Spinner, Ice Fang, Ice Shard, Seed Bomb, Throat Chop, Knock Off, Assurance"
-Dragalge,Poison,,,RU,,,,"Poison, Hydro Pump, Liquidation, Aqua Tail, Surf, Muddy Water, Scald, Waterfall, Dive, Flip Turn, Iron Tail, Shadow Ball"
-Drampa,,,,RU,,,,"Hydro Pump, Surf, Steel Wing, Rock Slide, Ice Beam, Earthquake, Grass Knot, Solar Beam, Energy Ball, Shadow Ball, Shadow Claw, Lash Out"
-Drapion,Poison,Dark,,RU,,,,"Poison, Dark, Aqua Tail, Iron Tail, Rock Slide, Ice Fang, Earthquake, Shadow Ball, Bug Buzz, X Scissor, Skitter Smack, Pin Missile"
-Drednaw,Water,Rock,,RU,,,,"Water, Rock, Smart Strike, Poison Jab, Ice Beam, Ice Spinner, Ice Fang, Earthquake, Earth Power, Crunch, Throat Chop, Jaw Lock, Payback, Megahorn, Skitter Smack"
-Druddigon,,,,RU,,,,"Aqua Tail, Surf, Iron Tail, Flash Cannon, Iron Head, Rock Slide, Gunk Shot, Sludge Bomb, Earthquake, Shadow Claw, Crunch, Dark Pulse, Lash Out, Sucker Punch, Night Slash, Payback"
-Dudunsparce,,,,RU,,,,"Aqua Tail, Gyro Ball, Heavy Slam, Iron Tail, Smart Strike, Rock Slide, Poison Jab, Ice Beam, Ice Spinner, Earthquake, Earth Power, Drill Run, Solar Beam, Shadow Ball, Hex, Throat Chop, Lunge, Skitter Smack"
-Duraludon,Steel,,,RU,,,,"Steel, Stone Edge, Rock Slide, Stomping Tantrum, Solar Beam, Foul Play, Dark Pulse, Night Slash"
-Durant,Bug,Steel,,RU,,,,"Bug, Steel, Stone Edge, Rock Slide, Stomping Tantrum, Energy Ball, Shadow Claw, Crunch, Beat Up, Skitter Smack"
-Dusknoir,Ghost,,,RU,,,,"Ghost, Hard Press, Rock Slide, Ice Beam, Ice Punch, Darkest Lairat, Dark Pulse, Sucker Punch, Payback, Leech Life, Skitter Smack"
-Eelektross,,,,RU,,,,"Aqua Tail, Liquidation, Heavy Slam, Iron Tail, Flash Cannon, Rock Slide, Stomping Tantrum, Grass Knot, Giga Drain, Hex, Crunch, Throat Chop, Knock Off, Lunge, Signal Beam, Uturn"
-Electivire,,,,RU,,,,"Iron Tail, Rock Slide, Ice Punch, Earthquake, Darkest Lairat, Knock Off, Signal Beam"
-Emboar,,,,RU,,,,"Scald, Hard Press, Gyro Ball, Heavy Slam, Iron Tail, Iron Head, Head Smash, Stone Edge, Rock Slide, Poison Jab, Earthquake, Grass Knot, Solar Beam, Sucker Punch, Knock Off"
-Empoleon,Water,Steel,,RU,,Yes,,"Water, Steel, Rock Slide, Ice Beam, Ice Spinner, Avalanche, Triple Axel, Earthquake, Grass Knot, Shadow Claw, Throat Chop, Lash Out, Knock Off, Power Trip, Signal Beam"
-Entei,,,,RU,,,,"Iron Tail, Iron Head, Stone Edge, Stomping Tantrum, Scorching Sands, Solar Beam, Shadow Ball, Crunch"
-Escavalier,Bug,Steel,,RU,,,,"Bug, Steel, Razor Shell, Poison Jab, Drill Run, Energy Ball, Giga Drain, Night Slash, Knock Off"
-Espeon,,,,RU,,,,"Iron Tail, Power Gem, Grass Knot, Shadow Ball, Signal Beam"
-Exeggutor-Alola,Grass,,,RU,,,,"Grass, Iron Head, Sludge Bomb, Earthquake, Knock Off"
-Farigiraf,,,,RU,,,,"Iron Tail, Iron Head, Earthquake, Grass Knot, Energy Ball, Shadow Ball, Foul Play, Crunch, Sucker Punch, Beat Up, Signal Beam"
-Feraligatr,Water,,,RU,,,,"Water, Iron Tail, Rock Slide, Ice Beam, Ice Punch, Ice Fang, Avalanche, Earthquake, Shadow Claw, Crunch, Lash Out"
-Floatzel,Water,,,RU,,,,"Water, Iron Tail, Ice Beam, Ice Spinner, Ice Punch, Ice Fang, Crunch, Payback"
-Flygon,Ground,,,RU,,Yes,,"Ground, Iron Tail, Steel Wing, Stone Edge, Rock Slide, Earthquake, Solar Beam, Giga Drain, Crunch, Throat Chop, Bug Buzz, First Impression, Signal Beam, Uturn"
-Forretress,Bug,Steel,,RU,,,,"Bug, Steel, Stone Edge, Rock Slide, Poison Jab, Venoshock, Ice Spinner, Earthquake, Earth Power, Drill Run, Solar Beam, Seed Bomb, Giga Drain"
-Furfrou,,,,RU,,,,"Surf, Iron Tail, Grass Knot, Dark Pulse, Sucker Punch, Uturn"
-Furret,,,,RU,,,,"Aqua Tail, Surf, Iron Tail, Ice Beam, Ice Punch, Grass Knot, Solar Beam, Seed Bomb, Shadow Ball, Shadow Claw, Sucker Punch, Knock Off, Uturn"
-Gallade,,,,RU,,,,"Aqua Cutter, Stone Edge, Rock Slide, Poison Jab, Ice Punch, Triple Axel, Earthquake, Solar Blade, Grass Knot, Energy Ball, Leaf Blade, Shadow Ball, Shadow Claw, Hex, Shadow Sneak, Throat Chop, Night Slash, Knock Off, X Scissor, Signal Beam"
-Garbodor,Poison,,,RU,,,,"Poison, Rock Blast, Stomping Tantrum, Solar Beam, Seed Bomb, Giga Drain, Dark Pulse, Payback"
-Gastrodon,Water,Ground,,RU,,Yes,,"Water, Ground, Stone Edge, Rock Slide, Rock Blast, Sludge Wave, Sludge Bomb, Sludge, Ice Beam, Earth Power, Skitter Smack"
-Gigalith,Rock,,,RU,,,,"Rock, Heavy Slam, Flash Cannon, Iron Head, Earthquake, Earth Power, Solar Beam, Throat Chop"
-Glaceon,Ice,,,RU,,,,"Ice, Aqua Tail, Iron Tail, Shadow Ball, Signal Beam"
-Glalie,Ice,,,RU,,,,"Ice, Gyro Ball, Iron Head, Earthquake, Shadow Ball, Hex, Foul Play, Crunch, Dark Pulse, Payback, Signal Beam"
-Gogoat,Grass,,,RU,,,,"Grass, Surf, Iron Tail, Rock Slide, Earthquake, Throat Chop, Payback"
-Golduck,Water,,,RU,,,,"Water, Iron Tail, Power Gem, Ice Beam, Ice Punch, Mud Bomb, Grass Knot, Shadow Claw, Knock Off, Signal Beam"
-Golisopod,Bug,Water,,RU,,,,"Bug, Water, Iron Head, Rock Slide, Sludge Wave, Sludge Bomb, Poison Jab, Venoshock, Ice Beam, Drill Run, Shadow Claw, Dark Pulse, Throat Chop, Sucker Punch, Knock Off, Payback"
-Golurk,Ground,Ghost,,RU,,,,"Ground, Ghost, Hard Press, Gyro Ball, Heavy Slam, Flash Cannon, Stone Edge, Rock Slide, Ice Beam, Ice Punch, Grass Knot, Solar Beam, Darkest Lairat, Knock Off, Signal Beam"
-Goodra,,,,RU,,Yes,,"Hydro Pump, Aqua Tail, Surf, Muddy Water, Scald, Iron Tail, Rock Slide, Sludge Wave, Sludge Bomb, Ice Beam, Earthquake, Power Whip, Knock Off, Skitter Smack"
-Gourgeist,Ghost,Grass,,RU,,,,"Ghost, Grass, Gyro Ball, Rock Slide, Sludge Bomb, Foul Play, Dark Pulse, Skitter Smack"
-Granbull,,,,RU,,Yes,,"Iron Tail, Stone Edge, Rock Slide, Sludge Bomb, Ice Punch, Ice Fang, Earthquake, Solar Beam, Shadow Ball, Crunch, Lash Out, Payback"
-Greedent,,,,RU,,,,"Gyro Ball, Iron Tail, Belch, Ice Fang, Earthquake, Seed Bomb, Bullet Seed, Crunch, Knock Off, Payback"
-Grumpig,,,,RU,,,,"Iron Tail, Flash Cannon, Power Gem, Belch, Ice Punch, Earth Power, Stomping Tantrum, Grass Knot, Energy Ball, Seed Bomb, Shadow Ball, Payback, Lunge, Signal Beam"
-Gumshoos,,,,RU,,,,"Iron Tail, Iron Head, Ice Punch, Ice Fang, Earthquake, Seed Bomb, Crunch, Knock Off, Payback, Uturn"
-Hariyama,,,,RU,,,,"Surf, Brine, Heavy Slam, Iron Head, Bullet Punch, Stone Edge, Rock Slide, Poison Jab, Ice Punch, Headlong Rush, Earthquake, Throat Chop, Lash Out, Knock Off, Payback"
-Heatmor,,,,RU,,,,"Belch, Stomping Tantrum, Scorching Sands, Solar Beam, Giga Drain, Shadow Claw, Throat Chop, Sucker Punch, Night Slash, Knock Off"
-Heliolisk,,,,RU,,,,"Surf, Iron Tail, Rock Slide, Grass Knot, Solar Beam, Dark Pulse, Signal Beam, Uturn"
-Heracross,Bug,,,RU,,,,"Bug, Smart Strike, Stone Edge, Rock Slide, Rock Blast, Venoshock, Earthquake, Bullet Seed, Shadow Claw, Throat Chop, Night Slash, Knock Off"
-Hitmonchan,,,,RU,,,,"Bullet Punch, Stone Edge, Rock Slide, Poison Jab, Ice Punch, Earthquake, Throat Chop, Knock Off"
-Hitmontop,,,,RU,,,,"Gyro Ball, Bullet Punch, Stone Edge, Rock Slide, Ice Spinner, Triple Axel, Earthquake, Drill Run, Sucker Punch, Brutal Swing, Thief"
-Infernape,,,,RU,,,,"Iron Tail, Stone Edge, Rock Slide, Gunk Shot, Poison Jab, Earthquake, Scorching Sands, Grass Knot, Solar Beam, Shadow Claw, Throat Chop, Lash Out, Knock Off, Uturn"
-Iron Jugulis,Dark,,,RU,,,,"Dark, Hydro Pump, Flash Cannon, Iron Head, Meteor Beam, Earth Power, Uturn"
-Iron Thorns,Rock,,,RU,,,,"Rock, Heavy Slam, Iron Head, Ice Beam, Ice Punch, Ice Fang, Earthquake, Earth Power, Crunch, Pin Missile"
-Jellicent,Water,Ghost,,RU,,,,"Water, Ghost, Sludge Wave, Sludge Bomb, Ice Beam, Energy Ball, Giga Drain, Dark Pulse"
-Kabutops,Rock,Water,,RU,,,,"Rock, Water, Cross Poison, Ice Beam, Aurora Beam, Earth Power, Giga Drain, Night Slash, Knock Off, Leech Life, X Scissor"
-Kangaskhan,,,,RU,,,,"Aqua Tail, Surf, Bubble Beam, Hydro Pump, Iron Tail, Rock Slide, Ice Beam, Ice Punch, Avalanche, Earthquake, Solar Beam, Shadow Ball, Shadow Claw, Crunch, Sucker Punch, Beat Up"
-Kecleon,,,,RU,,,,"Aqua Tail, Iron Tail, Rock Slide, Ice Beam, Ice Punch, Grass Knot, Solar Beam, Shadow Ball, Shadow Claw, Shadow Sneak, Foul Play, Sucker Punch, Knock Off"
-Kingdra,Water,,,RU,,,,"Water, Flash Cannon, Iron Head, Ice Beam, Aurora Beam, Signal Beam"
-Komala,,,,RU,,,,"Iron Head, Rock Slide, Gunk Shot, Ice Spinner, Earthquake, Wood Hammer, Seed Bomb, Shadow Claw, Sucker Punch, Knock Off, Payback, Uturn"
-Krookodile,Ground,Dark,,RU,,,,"Ground, Dark, Aqua Tail, Iron Tail, Stone Edge, Rock Slide, Gunk Shot, Sludge Bomb, Grass Knot, Shadow Claw, Foul Play, Skitter Smack"
-Lapras,Water,Ice,,RU,,,,"Water, Ice, Iron Tail, Smart Strike, Iron Head, Earthquake, Drill Run, Solar Beam, Megahorn, Signal Beam"
-Latias,,,,RU,,,,"Surf, Liquidation, Waterfall, Dive, Steel Wing, Ice Beam, Earthquake, Grass Knot, Solar Beam, Energy Ball, Shadow Ball, Shadow Claw, Sucker Punch"
-Lickilicky,,,,RU,,,,"Hydro Pump, Aqua Tail, Surf, Muddy Water, Bubble Beam, Gyro Ball, Iron Tail, Rock Slide, Belch, Ice Beam, Ice Punch, Earthquake, Stomping Tantrum, Power Whip, Solar Beam, Shadow Ball, Knock Off"
-Linoone,,,,RU,Yes,,,"Surf, Iron Tail, Gunk Shot, Ice Beam, Stomping Tantrum, Grass Knot, Seed Bomb, Shadow Ball, Shadow Claw, Throat Chop, Pin Missile"
-Lucario,,Steel,,RU,,,,"Steel, Stone Edge, Rock Slide, Poison Jab, Ice Punch, Earthquake, Bone Rush, Shadow Ball, Shadow Claw, Crunch, Dark Pulse, Payback"
-Lunatone,Rock,,,RU,,,,"Rock, Gyro Ball, Iron Head, Ice Beam, Earthquake, Earth Power, Grass Knot, Shadow Ball, Signal Beam"
-Machamp,,,,RU,,,,"Heavy Slam, Bullet Punch, Stone Edge, Rock Slide, Rock Blast, Poison Jab, Cross Poison, Ice Punch, Earthquake, Darkest Lairat, Throat Chop, Knock Off, Payback"
-Magmortar,,,,RU,,Yes,,"Iron Tail, Rock Slide, Belch, Poison Jab, Earthquake, Scorching Sands, Solar Beam, Knock Off"
-Mantine,Water,,,RU,,,,"Water, Iron Head, Rock Slide, Rock Blast, Gunk Shot, Ice Beam, Earthquake, Seed Bomb, Bullet Seed, Signal Beam"
-Marowak,Ground,,,RU,,,,"Ground, Bubble Beam, Iron Tail, Iron Head, Stone Edge, Rock Slide, Ice Beam, Throat Chop, Knock Off"
-Marowak-Alola,,Ghost,,RU,,,,"Ghost, Iron Tail, Iron Head, Stone Edge, Rock Slide, Ice Beam, Earthquake, Earth Power, Scorching Sands, Bone Club, Bonemerang, Bone Rush, Dark Pulse, Throat Chop, Knock Off"
-Mawile,Steel,,,RU,,,,"Steel, Stone Edge, Rock Slide, Sludge Bomb, Ice Beam, Ice Punch, Ice Fang, Grass Knot, Solar Beam, Shadow Ball, Foul Play, Crunch, Dark Pulse, Sucker Punch, Knock Off, Payback"
-Medicham,,,,RU,,Yes,,"Rock Slide, Poison Jab, Ice Punch, Grass Knot, Energy Ball, Shadow Ball, Signal Beam"
-Meganium,Grass,,,RU,,,,"Grass, Iron Tail, Earthquake, Knock Off"
-Metagross,Steel,,,RU,,Yes,,"Steel, Meteor Beam, Stone Edge, Rock Slide, Sludge Bomb, Ice Punch, Earthquake, Grass Knot, Shadow Ball, Shadow Claw, Knock Off, Signal Beam"
-Milotic,Water,,,RU,,,,"Water, Iron Head, Ice Beam, Avalanche, Triple Axel, Skitter Smack"
-Miltank,,,,RU,,,,"Surf, Gyro Ball, Heavy Slam, Iron Tail, Iron Head, Rock Slide, Belch, Ice Beam, Ice Punch, Earthquake, Solar Beam, Shadow Ball"
-Minior,Rock,,,RU,,,,"Rock, Gyro Ball, Iron Head, Earthquake, Earth Power, Scorching Sands, Solar Beam, Uturn"
-Muk,Poison,,,RU,,,,"Poison, Rock Slide, Ice Punch, Mud Bomb, Giga Drain, Shadow Ball, Hex, Shadow Sneak, Dark Pulse, Lash Out, Knock Off, Payback"
-Muk-Alola,Poison,Dark,,RU,,Yes,,"Poison, Dark, Stone Edge, Rock Slide, Ice Punch, Giga Drain, Shadow Ball, Hex, Shadow Sneak"
-Musharna,,,,RU,,,,"Gyro Ball, Rock Slide, Energy Ball, Shadow Ball, Signal Beam"
-Necrozma,,,,RU,,,,"Flash Cannon, Iron Head, Smart Strike, Meteor Beam, Stone Edge, Power Gem, Rock Slide, Rock Blast, Earthquake, Earth Power, Solar Beam, Shadow Claw, Dark Pulse, Night Slash, Knock Off, X Scissor, Signal Beam"
-Nidoking,Poison,Ground,,RU,,,,"Poison, Ground, Aqua Tail, Surf, Bubble Beam, Iron Tail, Smart Strike, Head Smash, Stone Edge, Rock Slide, Rock Blast, Ice Beam, Ice Punch, Avalanche, Shadow Ball, Shadow Claw, Hex, Throat Chop, Sucker Punch, Megahorn"
-Nidoqueen,Poison,Ground,,RU,,,,"Poison, Ground, Aqua Tail, Surf, Bubble Beam, Iron Tail, Stone Edge, Rock Slide, Rock Blast, Ice Beam, Ice Punch, Avalanche, Shadow Ball, Shadow Claw, Hex, Crunch, Throat Chop, Sucker Punch, Beat Up"
-Nihilego,Rock,Poison,,RU,,,,"Rock, Poison, Iron Head, Grass Knot, Hex, Foul Play, Knock Off"
-Ninetales,,,,RU,,,,"Iron Tail, Scorching Sands, Solar Beam, Energy Ball, Shadow Ball, Hex, Foul Play, Dark Pulse, Payback"
-Obstagoon,Dark,,,RU,,,,"Dark, Surf, Iron Tail, Gunk Shot, Cross Poison, Ice Beam, Ice Punch, Stomping Tantrum, Grass Knot, Seed Bomb, Shadow Ball, Shadow Claw, X Scissor, Pin Missile"
-Octillery,Water,,,RU,,,,"Water, Flash Cannon, Rock Blast, Gunk Shot, Sludge Wave, Ice Beam, Aurora Beam, Energy Ball, Seed Bomb, Bullet Seed, Payback, Signal Beam, Skitter Smack"
-Oinkologne,,,,RU,,,,"Iron Head, Belch, High Horsepower, Earth Power, Stomping Tantrum, Energy Ball, Seed Bomb, Bullet Seed, Lash Out"
-Oinkologne-F,,,,RU,,,,"Iron Head, Belch, High Horsepower, Earth Power, Stomping Tantrum, Energy Ball, Seed Bomb, Bullet Seed, Lash Out"
-Okidogi,Poison,,,RU,,,,"Poison, Hard Press, Iron Head, Ice Punch, Ice Fang, High Horsepower, Stomping Tantrum, Shadow Claw, Crunch, Throat Chop, Lash Out, Knock Off"
-Omastar,Rock,Water,,RU,,,,"Rock, Water, Gyro Ball, Ice Beam, Aurora Beam, Earth Power, Crunch, Knock Off, Pin Missile"
-Overqwil,Dark,Poison,,RU,,,,"Dark, Poison, Aqua Tail, Surf, Liquidation, Waterfall, Brine, Bubble Beam, Aqua Jet, Hydro Pump, Gyro Ball, Smart Strike, Ice Beam, Shadow Ball, Hex, Pin Missile"
-Palossand,Ghost,Ground,,RU,,,,"Ghost, Ground, Brine, Flash Cannon, Stone Edge, Rock Slide, Sludge Bomb, Energy Ball, Giga Drain"
-Pangoro,,Dark,,RU,,,,"Dark, Surf, Iron Head, Stone Edge, Rock Slide, Gunk Shot, Sludge Bomb, Poison Jab, Ice Punch, Earthquake, Grass Knot, Shadow Claw, X Scissor"
-Passimian,,,,RU,,,,"Gyro Ball, Iron Tail, Iron Head, Rock Slide, Gunk Shot, Earthquake, Grass Knot, Energy Ball, Seed Bomb, Shadow Ball, Knock Off, Payback, Beat Up, Uturn"
-Pelipper,Water,,,RU,,,,"Water, Steel Wing, Gunk Shot, Ice Beam, Seed Bomb, Knock Off, Payback, Uturn"
-Persian,,,,RU,,,,"Bubble Beam, Iron Tail, Power Gem, Gunk Shot, Petal Dance, Seed Bomb, Shadow Ball, Shadow Claw, Foul Play, Dark Pulse, Throat Chop, Lash Out, Night Slash, Knock Off, Payback, Uturn, Skitter Smack"
-Persian-Alola,Dark,,,RU,,,,"Dark, Iron Tail, Power Gem, Gunk Shot, Seed Bomb, Shadow Ball, Shadow Claw, Uturn, Skitter Smack"
-Pikachu,,,,RU,,,,"Surf, Iron Tail, Grass Knot, Knock Off, Signal Beam"
-Pincurchin,,,,RU,,,,"Hydro Pump, Surf, Muddy Water, Liquidation, Scald, Brine, Bubble Beam, Poison Jab, Venoshock, Hex, Throat Chop, Sucker Punch, Payback, Pin Missile"
-Poliwrath,Water,,,RU,,,,"Water, Rock Slide, Poison Jab, Ice Beam, Ice Punch, Earthquake, Earth Power, Mud Bomb, Darkest Lairat, Throat Chop, Knock Off, Payback"
-Primarina,Water,,,RU,,,,"Water, Iron Tail, Ice Beam, Ice Spinner, Triple Axel, Energy Ball, Shadow Ball"
-Qwilfish,Water,Poison,,RU,,,,"Water, Poison, Gyro Ball, Ice Beam, Shadow Ball, Hex, Crunch, Throat Chop, Payback, Signal Beam, Pin Missile"
-Rabsca,Bug,,,RU,,,,"Bug, Power Gem, Gunk Shot, Sludge Bomb, Earth Power, Energy Ball, Poltergeist, Shadow Ball"
-Raichu,,,,RU,,,,"Surf, Iron Tail, Grass Knot, Knock Off, Signal Beam"
-Raichu-Alola,,,,RU,,,,"Surf, Iron Tail, Grass Knot, Knock Off, Signal Beam"
-Raikou,,,,RU,,,,"Scald, Iron Tail, Iron Head, Shadow Ball, Crunch, Throat Chop, Signal Beam"
-Ramparados,Rock,,,RU,,,,"Rock, Surf, Heavy Slam, Iron Tail, Iron Head, Rock Slide, Ice Beam, Avalanche, Earthquake, Earth Power, Crunch, Payback"
-Rapidash,,,,RU,,,,"Iron Tail, Smart Strike, Poison Jab, High Horsepower, Drill Run, Scorching Sands, Solar Blade, Solar Beam, Throat Chop, Megahorn"
-Raticate,,,,RU,,,,"Bubble Beam, Iron Tail, Ice Beam, Stomping Tantrum, Grass Knot, Shadow Ball, Crunch, Throat Chop, Sucker Punch, Uturn"
-Raticate-Alola,Dark,,,RU,,,,"Dark, Iron Tail, Sludge Wave, Sludge Bomb, Venoshock, Ice Beam, Stomping Tantrum, Grass Knot, Shadow Ball, Shadow Claw, Sucker Punch, Uturn"
-Regice,Ice,,,RU,,,,"Ice, Heavy Slam, Flash Cannon, Iron Head, Rock Slide, Earthquake, Signal Beam"
-Regigigas,,,,RU,Yes,,,"Hard Press, Heavy Slam, Iron Head, Stone Edge, Rock Slide, Ice Punch, Avalanche, Earthquake, Earth Power, Darkest Lairat, Knock Off, Payback"
-Registeel,Steel,,,RU,Yes,,,"Steel, Meteor Beam, Rock Slide, Ice Spinner, Ice Punch, Earthquake, Shadow Claw"
-Reuniclus,,,,RU,,,,"Gyro Ball, Flash Cannon, Rock Slide, Ice Punch, Grass Knot, Energy Ball, Shadow Ball, Knock Off, Signal Beam"
-Rhyperior,Ground,Rock,,RU,,,,"Ground, Rock, Hydro Pump, Aqua Tail, Surf, Bubble Beam, Heavy Slam, Iron Tail, Flash Cannon, Iron Head, Smart Strike, Poison Jab, Ice Beam, Ice Punch, Ice Fang, Avalanche, Shadow Claw, Crunch, Payback, Megahorn"
-Sableye,Dark,Ghost,,RU,,,,"Dark, Ghost, Octazooka, Gyro Ball, Power Gem, Poison Jab, Ice Punch, Energy Ball, Giga Drain, Dark Pulse, X Scissor, Signal Beam, Skitter Smack"
-Samurott,Water,,,RU,,,,"Water, Iron Tail, Smart Strike, Ice Beam, Avalanche, Drill Run, Grass Knot, Night Slash, Knock Off, Megahorn, X Scissor"
-Sandslash-Alola,Ice,Steel,,RU,,,,"Ice, Steel, Aqua Tail, Rock Slide, Poison Jab, Earthquake, Drill Run, Shadow Claw, Throat Chop, Night Slash, Knock Off, Leech Life, X Scissor, Pin Missile"
-Sawk,,,,RU,,,,"Stone Edge, Rock Slide, Poison Jab, Ice Punch, Earthquake, Grass Knot, Throat Chop, Knock Off, Payback"
-Sawsbuck,,Grass,,RU,,,,"Grass, Smart Strike, High Horsepower, Shadow Ball, Throat Chop, Megahorn"
-Sceptile,Grass,,,RU,,,,"Grass, Iron Tail, Rock Slide, Cross Poison, Earthquake, Crunch, Throat Chop, Night Slash, X Scissor"
-Scrafty,Dark,,,RU,,,,"Dark, Iron Tail, Iron Head, Head Smash, Stone Edge, Rock Slide, Sludge Bomb, Poison Jab, Ice Punch, Grass Knot"
-Scream Tail,,,,RU,,,,"Gyro Ball, Ice Beam, Ice Punch, Ice Fang, Stomping Tantrum, Grass Knot, Crunch"
-Seaking,Water,,,RU,,,,"Water, Smart Strike, Poison Jab, Ice Beam, Drill Run, Throat Chop, Knock Off, Megahorn, Signal Beam"
-Seismitoad,Water,Ground,,RU,,,,"Water, Ground, Rock Slide, Sludge Wave, Sludge Bomb, Poison Jab, Ice Punch, Grass Knot, Power Whip, Knock Off, Payback"
-Seviper,Poison,,,RU,,,,"Poison, Aqua Tail, Iron Tail, Iron Head, Ice Fang, Earthquake, Seed Bomb, Crunch, Throat Chop, Lash Out, Sucker Punch, Night Slash, Knock Off, Payback, X Scissor, Skitter Smack"
-Sharpedo,Water,Dark,,RU,,,,"Water, Dark, Poison Jab, Poison Fang, Ice Beam, Ice Fang, Avalanche, Earthquake"
-Silvally,,,,RU,,,,"Surf, Flash Cannon, Iron Head, Steel Wing, Rock Slide, Ice Beam, Ice Fang, Shadow Ball, Shadow Claw, Crunch, X Scissor, Signal Beam, Uturn"
-Simipour,Water,,,RU,,,,"Water, Iron Tail, Rock Slide, Gunk Shot, Ice Beam, Ice Punch, Grass Knot, Shadow Claw, Crunch, Throat Chop, Knock Off, Payback"
-Simisage,Grass,,,RU,,,,"Grass, Iron Tail, Rock Slide, Gunk Shot, Shadow Claw, Crunch, Throat Chop, Knock Off, Payback"
-Simisear,,,,RU,,,,"Iron Tail, Rock Slide, Gunk Shot, Belch, Grass Knot, Solar Beam, Shadow Claw, Crunch, Throat Chop, Knock Off, Payback"
-Skeledirge,,Ghost,,,,,,"Ghost, Belch, Earthquake, Earth Power, Scorching Sands, Solar Beam, Seed Bomb, Crunch, Bite"
-Slaking,,,,RU,,,,"Hard Press, Heavy Slam, Rock Slide, Gunk Shot, Poison Jab, Ice Beam, Ice Punch, Earthquake, Solar Beam, Seed Bomb, Shadow Ball, Shadow Claw, Throat Chop, Lash Out, Sucker Punch, Night Slash, Knock Off, X Scissor"
-Slither Wing,Bug,,,RU,,,,"Bug, Heavy Slam, Earthquake, Giga Drain"
-Slowbro-Galar,Poison,,,RU,,,,"Poison, Surf, Muddy Water, Liquidation, Scald, Waterfall, Dive, Razor Shell, Brine, Hydro Pump, Iron Tail, Power Gem, Rock Blast, Ice Beam, Ice Punch, Ice Fang, Avalanche, Earthquake, Grass Knot, Shadow Ball, Foul Play"
-Slowking,Water,,,RU,,Yes,,"Water, Iron Tail, Power Gem, Rock Slide, Belch, Ice Beam, Ice Punch, Avalanche, Earthquake, Grass Knot, Shadow Ball, Foul Play, Signal Beam"
-Snorlax,,,,RU,,,,"Hydro Pump, Surf, Hard Press, Heavy Slam, Iron Head, Rock Slide, Gunk Shot, Belch, Ice Beam, Ice Punch, Earthquake, Solar Beam, Seed Bomb, Shadow Ball, Darkest Lairat, Crunch"
-Solrock,Rock,,,RU,,,,"Rock, Gyro Ball, Iron Head, Earthquake, Grass Knot, Solar Beam, Shadow Ball, Signal Beam"
-Starmie,Water,,,RU,,,,"Water, Gyro Ball, Flash Cannon, Meteor Beam, Power Gem, Ice Beam, Avalanche, Grass Knot, Signal Beam"
-Steelix,Steel,Ground,,RU,,,,"Steel, Ground, Aqua Tail, Head Smash, Meteor Beam, Stone Edge, Rock Slide, Rock Blast, Ice Fang, Crunch, Dark Pulse, Payback"
-Stoutland,,,,RU,,,,"Surf, Iron Head, Ice Fang, Stomping Tantrum, Shadow Ball, Crunch, Payback"
-Stunfisk,Ground,,,RU,,,,"Ground, Aqua Tail, Surf, Muddy Water, Scald, Stone Edge, Rock Slide, Sludge Wave, Sludge Bomb, Foul Play, Lash Out, Sucker Punch, Payback"
-Stunfisk-Galar,Ground,Steel,,RU,,,,"Ground, Steel, Surf, Muddy Water, Scald, Stone Edge, Rock Slide, Sludge Wave, Sludge Bomb, Ice Fang, Foul Play, Crunch, Lash Out, Sucker Punch, Payback"
-Suicune,Water,,,RU,,,,"Water, Iron Tail, Iron Head, Ice Beam, Ice Fang, Aurora Beam, Avalanche, Shadow Ball, Crunch, Signal Beam"
-Swalot,Poison,,,RU,,,,"Poison, Ice Beam, Ice Punch, Ice Beam, Earthquake, Giga Drain, Solar Beam, Seed Bomb, Bullet Seed, Shadow Ball, Knock Off"
-Swampert,Water,Ground,,RU,,,,"Water, Ground, Hard Press, Iron Tail, Stone Edge, Rock Slide, Sludge Wave, Poison Jab, Ice Beam, Ice Punch, Avalanche, Darkest Lairat, Knock Off"
-Tangrowth,Grass,,,RU,,,,"Grass, Rock Slide, Sludge Bomb, Poison Jab, Earthquake, Knock Off, Payback"
-Tapu Bulu,Grass,,,RU,,,,"Grass, Smart Strike, Stone Edge, Rock Slide, High Horsepower, Darkest Lairat, Payback, Megahorn"
-Tauros,,,,RU,,,,"Surf, Iron Tail, Iron Head, Smart Strike, Stone Edge, Rock Slide, Ice Beam, Earthquake, Solar Beam, Shadow Ball, Throat Chop, Lash Out, Payback, Megahorn"
-Tauros-Paldea-Aqua,,Water,,RU,,,,"Water, Iron Head, Smart Strike, Stone Edge, Rock Slide, Earthquake, Drill Run, Lash Out"
-Tauros-Paldea-Combat,,,,RU,,,,"Surf, Iron Head, Smart Strike, Stone Edge, Rock Slide, Earthquake, Drill Run, Lash Out, Throat Chop"
-Tentacruel,Water,Poison,,RU,,,,"Water, Poison, Ice Beam, Aurora Beam, Giga Drain, Hex, Throat Chop, Knock Off, Payback, Skitter Smack"
-Throh,,,,RU,,,,"Stone Edge, Rock Slide, Poison Jab, Ice Punch, Earthquake, Grass Knot, Knock Off, Payback"
-Tinkaton,,Steel,,RU,,,,"Steel, Stone Edge, Rock Slide, Ice Hammer, Foul Play, Knock Off, Skitter Smack"
-Toedscruel,Ground,Grass,,RU,,,,"Ground, Grass, Flash Cannon, Sludge Bomb, Venoshock, Earth Power, Hex, Foul Play, Knock Off, Lunge, Skitter Smack"
-Torterra,Grass,Ground,,RU,Yes,,,"Grass, Ground, Hard Press, Heavy Slam, Iron Tail, Iron Head, Stone Edge, Rock Slide, Crunch"
-Toucannon,,,,RU,,,,"Flash Cannon, Steel Wing, Rock Blast, Gunk Shot, Seed Bomb, Bullet Seed, Throat Chop, Knock Off, Uturn"
-Toxicroak,Poison,,,RU,,Yes,,"Poison, Bullet Punch, Stone Edge, Rock Slide, Ice Punch, Earthquake, Shadow Ball, Shadow Claw, Foul Play, Dark Pulse, Throat Chop, Lash Out, Sucker Punch, Knock Off, Payback, X Scissor"
-Trevenant,Ghost,Grass,,RU,,,,"Ghost, Grass, Rock Slide, Poison Jab, Earthquake, Foul Play, Dark Pulse, Lash Out, Sucker Punch, Knock Off, X Scissor, Skitter Smack"
-Tropius,Grass,,,RU,,,,"Grass, Steel Wing, Earthquake, Stomping Tantrum, Uturn"
-Turtonator,,,,RU,,,,"Heavy Slam, Iron Tail, Flash Cannon, Iron Head, Head Smash, Stone Edge, Venoshock, Earthquake, Stomping Tantrum, Scorching Sands, Solar Beam, Lash Out, Payback"
-Typhlosion,,,,RU,,,,"Gyro Ball, Iron Tail, Iron Head, Rock Slide, Earthquake, Scorching Sands, Solar Beam, Shadow Ball, Shadow Claw, Throat Chop"
-Typhlosion-Hisui,,Ghost,,RU,,,,"Ghost, Gyro Ball, Iron Tail, Iron Head, Rock Slide, Earthquake, Solar Beam"
-Tyranitar,Rock,Dark,,RU,,,,"Rock, Dark, Hydro Pump, Aqua Tail, Surf, Muddy Water, Heavy Slam, Iron Tail, Iron Head, Ice Beam, Ice Punch, Ice Fang, Avalanche, Earthquake, Earth Power, Shadow Claw"
-Tyrantrum,Rock,,,RU,Yes,,,"Rock, Iron Tail, Iron Head, Poison Fang, Ice Fang, Earthquake, Earth Power, Crunch"
-Vaporeon,Water,,,RU,,Yes,,"Water, Iron Tail, Ice Beam, Aurora Beam, Shadow Ball, Signal Beam"
-Venusaur,Grass,Poison,,RU,,,,"Grass, Poison, Earthquake, Earth Power, Knock Off"
-Virizion,Grass,,,RU,,,,"Grass, Smart Strike, Stone Edge, Megahorn, X Scissor"
-Walrein,Ice,Water,,RU,,,,"Ice, Water, Iron Tail, Iron Head, Rock Slide, Earthquake, Stomping Tantrum, Crunch, Signal Beam"
-Watchog,,,,RU,,,,"Aqua Tail, Iron Tail, Gunk Shot, Ice Punch, Stomping Tantrum, Grass Knot, Seed Bomb, Bullet Seed, Shadow Ball, Crunch, Knock Off, Signal Beam"
-Wigglytuff,,,,RU,,,,"Bubble Beam, Gyro Ball, Ice Beam, Ice Spinner, Ice Punch, Grass Knot, Solar Beam, Energy Ball, Shadow Ball, Dark Pulse, Knock Off"
-Wishiwashi,Water,,,RU,,,,"Water, Iron Tail, Ice Beam, Earthquake, Uturn"
-Wyrdeer,,,,RU,,Yes,,"Iron Tail, Earthquake, High Horsepower, Earth Power, Solar Beam, Energy Ball, Shadow Ball, Throat Chop, Sucker Punch, Megahorn, Lunge, Signal Beam"
-Zangoose,,,,RU,,,,"Surf, Rock Slide, Gunk Shot, Poison Jab, Ice Beam, Ice Punch, Grass Knot, Solar Beam, Seed Bomb, Giga Drain, Shadow Ball, Shadow Claw, Throat Chop, Night Slash, Knock Off, Payback, Power Trip, X Scissor"
-Zarude,Dark,Grass,,RU,,,,"Dark, Grass, Iron Tail, Rock Slide, Stomping Tantrum, Uturn"
+Name,MonType1,MonType2,MonType3,Tier,In Wishlist,Used,Trash,Stab1,Stab2,Stab3,Move1,Move2,Move3,Move4,Move5,Move6,Move7,Move8,Move9,Move10,Move11,Move12,Move13,Move14,Move15,Move16,Move17,Move18,Move19,Move20,Move21,Move22,Move23,Move24
+Abomasnow,Grass,Ice,,RU,,,,Grass,,,Shadow Ball,Iron Tail,Brick Break,Low Kick,Body Press,Earthquake,Earth Power,,,,,,,,,,,,,,,,,
+Absol,Dark,,,RU,,,,Dark,,,Shadow Claw,Shadow Ball,Play Rough,Megahorn,X Scissor,Psycho Cut,Zen Headbutt,Future Sight,Iron Tail,Close Combat,,,,,,,,,,,,,,
+Aggron,Steel,Rock,,RU,,Yes,,Steel,,,Shadow Claw,Aqua Tail,Surf,Body Press,Low Kick,Superpower,Focus Blast,Dynamic Punch,Reversal,Earthquake,Earth Power,Crunch,Payback,Dark Pulse,Payback,,,,,,,,,
+Amoonguss,Grass,Poison,,RU,,,,Grass,,,Hex,Pollen Puff,Stomping Tantrum,Foul Play,Payback,,,,,,,,,,,,,,,,,,,
+Ampharos,Electric,,Dragon,RU,,,,,,,Dazzling Gleam,Signal Beam,Iron Tail,Focus Blast,Brick Break,Low Kick,Dynamic Punch,Stomping Tantrum,,,,,,,,,,,,,,,,
+Appletun,Grass,Dragon,,RU,,,Yes,Grass,,,Zen Headbutt,Gyro Ball,Iron Head,Heavy Slam,Body Press,Superpower,Earthquake,Sucker Punch,Payback,,,,,,,,,,,,,,,
+Arbok,Poison,,,RU,,,,,,,Aqua Tail,Seed Bomb,Giga Drain,Leech Life,Skitter Smack,Psychic Fangs,Iron Tail,Earthquake,Mud Bomb,Crunch,Knock Off,Sucker Punch,Payback,Dark Pulse,Throat Chop,Beat Up,,,,,,,,
+Arboliva,Grass,Normal,,RU,,,,Grass,,,Alluring Voice,Pollen Puff,Earth Power,,,,,,,,,,,,,,,,,,,,,
+Arcanine,Fire,,,RU,,,,,,,Play Rough,Solar Beam,Psychic Fangs,Iron Head,Iron Tail,Close Combat,Reversal,Scorching Sands,Crunch,,,,,,,,,,,,,,,
+Arcanine-Hisui,Fire,Rock,,RU,,,,,,,Solar Beam,Psychic Fangs,Iron Head,Smart Strike,Close Combat,Scorching Sands,Crunch,,,,,,,,,,,,,,,,,
+Archeops,Rock,Flying,,RU,,,,,,,Shadow Claw,Aqua Tail,Uturn,Zen Headbutt,Iron Tail,Steel Wing,Focus Blast,Earthquake,Earth Power,Crunch,Knock Off,Lash Out,,,,,,,,,,,,
+Arctozolt,Electric,Ice,,RU,,,,,,,Hydro Pump,Surf,Iron Tail,Low Kick,Stomping Tantrum,Payback,,,,,,,,,,,,,,,,,,
+Ariados,Bug,Poison,,RU,,,Yes,Bug,,,Shadow Sneak,Solar Beam,Giga Drain,Psychic,Psybeam,Smart Strike,Stomping Tantrum,Foul Play,Knock Off,Sucker Punch,Throat Chop,Night Slash,,,,,,,,,,,,
+Armaldo,Rock,Bug,,RU,,,,Bug,,,Shadow Claw,Aqua Jet,Liquidation,Aqua Tail,Iron Tail,Low Kick,Brick Break,Superpower,Earthquake,Earth Power,Knock Off,,,,,,,,,,,,,
+Armarouge,Fire,Psychic,,RU,,,,Psychic,,,Shadow Ball,Energy Ball,Solar Beam,Flash Cannon,Aura Sphere,Focus Blast,Scorching Sands,Dark Pulse,,,,,,,,,,,,,,,,
+Articuno,Ice,Flying,,RU,,,,,,,Bubble Beam,Signal Beam,Uturn,Extrasensory,Steel Wing,,,,,,,,,,,,,,,,,,,
+Audino,Normal,,Fairy,RU,,,,Fairy,,,Shadow Ball,Dazzling Gleam,Surf,Grass Knot,Solar Beam,Signal Beam,Psychic,Psyshock,Zen Headbutt,Iron Tail,Drain Punch,Low Kick,Stomping Tantrum,Knock Off,Throat Chop,,,,,,,,,
+Avalugg,Ice,,,RU,,,,,,,Gyro Ball,Heavy Slam,Iron Head,Flash Cannon,Body Press,Superpower,Earthquake,Crunch,,,,,,,,,,,,,,,,
+Avalugg-Hisui,Ice,Rock,,RU,,Yes,,,,,Surf,Gyro Ball,Heavy Slam,Iron Head,Flash Cannon,Body Press,Superpower,Earthquake,Crunch,,,,,,,,,,,,,,,
+Azelf,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Dazzling Gleam,Play Rough,Energy Ball,Grass Knot,Signal Beam,Uturn,Iron Tail,Drain Punch,Knock Off,Payback,,,,,,,,,,,,,
+Azumarill,Water,Fairy,,RU,,,,Water,Fairy,,Grass Knot,Future Sight,Iron Tail,Brick Break,Focus Blast,Superpower,Dynamic Punch,Knock Off,,,,,,,,,,,,,,,,
+Barbaracle,Rock,Water,,RU,,,,Water,,,Shadow Claw,Grass Knot,X Scissor,Cross Chop,Low Kick,Brick Break,Focus Blast,Superpower,Earthquake,Night Slash,Payback,Payback,Beat Up,,,,,,,,,,,
+Barraskewda,Water,,,RU,,,,Water,,,Psychic Fangs,Close Combat,Brick Break,Drill Run,Crunch,Throat Chop,Night Slash,,,,,,,,,,,,,,,,,
+Basculin,Water,,,RU,,,Yes,Water,,,Psychic Fangs,Superpower,Reversal,Revenge,Crunch,,,,,,,,,,,,,,,,,,,
+Bastiodon,Rock,Steel,,RU,Yes,,,Steel,,,Body Press,Reversal,Earthquake,Scorching Sands,Earth Power,Foul Play,,,,,,,,,,,,,,,,,,
+Beartic,Ice,,,RU,,Yes,,,,,Shadow Claw,Play Rough,Aqua Jet,Liquidation,Surf,Dive,Brine,Grass Knot,X Scissor,Heavy Slam,Hard Press,Close Combat,Reversal,Low Kick,Body Press,Brick Break,Earthquake,Crunch,Throat Chop,Night Slash,,,,
+Beautifly,Bug,Flying,,RU,,,,Bug,,,Shadow Ball,Energy Ball,Solar Beam,Psychic,,,,,,,,,,,,,,,,,,,,
+Beedrill,Bug,Poison,,RU,,,,Bug,,,Solar Beam,Brick Break,Drill Run,Knock Off,Throat Chop,Payback,,,,,,,,,,,,,,,,,,
+Beheeyem,Psychic,,,RU,Yes,,,Psychic,,,Shadow Ball,Energy Ball,Signal Beam,Flash Cannon,Steel Wing,Dark Pulse,,,,,,,,,,,,,,,,,,
+Bewear,Normal,Fighting,,RU,Yes,,,Fighting,,,Shadow Claw,Zen Headbutt,Iron Head,Earthquake,Darkest Lairat,Payback,,,,,,,,,,,,,,,,,,
+Bibarel,Normal,Water,,RU,,,Yes,Water,,,Shadow Ball,Grass Knot,Iron Tail,Superpower,Stomping Tantrum,Crunch,,,,,,,,,,,,,,,,,,
+Blastoise,Water,,,RU,Yes,,,Water,,,Signal Beam,Zen Headbutt,Flash Cannon,Iron Tail,Gyro Ball,Aura Sphere,Body Press,Dynamic Punch,Brick Break,Submission,Earthquake,Crunch,Dark Pulse,,,,,,,,,,,
+Blissey,Normal,,,RU,,,,,,,Shadow Ball,Alluring Voice,Bubble Beam,Grass Knot,Solar Beam,Psychic,Focus Blast,Mud Bomb,,,,,,,,,,,,,,,,
+Bombirdier,Flying,Dark,Rock,RU,Yes,,,Dark,,,Uturn,Drill Run,Foul Play,,,,,,,,,,,,,,,,,,,,,
+Bouffalant,Normal,,,RU,,,,,,,Megahorn,Zen Headbutt,Iron Head,Smart Strike,Close Combat,Reversal,Earthquake,Throat Chop,Payback,Lash Out,,,,,,,,,,,,,,
+Braviary,Normal,Flying,,RU,Yes,,,,,,Shadow Claw,Uturn,Zen Headbutt,Iron Head,Steel Wing,Close Combat,Reversal,,,,,,,,,,,,,,,,,
+Braviary-Hisui,Psychic,Flying,,RU,,,,Psychic,,,Shadow Ball,Shadow Claw,Dazzling Gleam,Uturn,Vacuum Wave,Close Combat,Reversal,,,,,,,,,,,,,,,,,
+Breloom,Grass,Fighting,,RU,,,,Grass,Fighting,,Pounce,Zen Headbutt,,,,,,,,,,,,,,,,,,,,,,
+Bronzong,Steel,Psychic,,RU,,,,Steel,Psychic,,Shadow Ball,Hex,Grass Knot,Solar Beam,Signal Beam,Body Press,Earthquake,Payback,,,,,,,,,,,,,,,,
+Brute Bonnet,Grass,Dark,,RU,,,,Grass,Dark,,Hex,Pollen Puff,Zen Headbutt,Close Combat,Body Press,Stomping Tantrum,Earth Power,,,,,,,,,,,,,,,,,
+Bruxish,Water,Psychic,,RU,,,,Water,Psychic,,Signal Beam,Iron Tail,Crunch,Payback,,,,,,,,,,,,,,,,,,,,
+Butterfree,Bug,Flying,,RU,,,Yes,Bug,,,Shadow Ball,Energy Ball,Solar Beam,Giga Drain,Psychic,Psybeam,,,,,,,,,,,,,,,,,,
+Cacturne,Grass,Dark,,RU,,,,Grass,Dark,,Shadow Ball,Lunge,Pin Missile,Skitter Smack,Zen Headbutt,Low Kick,Superpower,Dynamic Punch,Drain Punch,Revenge,Stomping Tantrum,,,,,,,,,,,,,
+Calyrex,Psychic,Grass,,RU,,,,Psychic,Grass,,Draining Kiss,Pollen Puff,Body Press,,,,,,,,,,,,,,,,,,,,,
+Camerupt,Fire,Ground,,RU,,,,Ground,,,Solar Beam,Zen Headbutt,Flash Cannon,Iron Head,Heavy Slam,Body Press,Lash Out,,,,,,,,,,,,,,,,,
+Carracosta,Water,Rock,,RU,,,,Water,,,Zen Headbutt,Iron Head,Iron Tail,Low Kick,Superpower,Focus Blast,Earthquake,Earth Power,Crunch,Knock Off,,,,,,,,,,,,,,
+Celebi,Psychic,Grass,,RU,Yes,,,Psychic,Grass,,Shadow Ball,Dazzling Gleam,Signal Beam,Uturn,Pollen Puff,Aura Sphere,Earth Power,Sucker Punch,,,,,,,,,,,,,,,,
+Centiskorch,Fire,Bug,,RU,,,,Bug,,,Scald,Power Whip,Solar Beam,Scorching Sands,Crunch,Knock Off,,,,,,,,,,,,,,,,,,
+Cetitan,Ice,,,RU,,,,,,,Play Rough,Liquidation,Heavy Slam,Hard Press,Superpower,Body Press,Earthquake,Knock Off,,,,,,,,,,,,,,,,
+Chandelure,Ghost,Fire,,RU,Yes,,,Ghost,,,Energy Ball,Solar Beam,Skitter Smack,Psychic,Dark Pulse,Payback,Lash Out,,,,,,,,,,,,,,,,,
+Charizard,Fire,Flying,Dragon,RU,,,,,,,Shadow Claw,Solar Beam,Iron Tail,Brick Break,Focus Blast,Dynamic Punch,Submission,Earthquake,Scorching Sands,Crunch,Beat Up,,,,,,,,,,,,,
+Chatot,Normal,Flying,,RU,,,Yes,,,,Uturn,Synchronoise,Steel Wing,,,,,,,,,,,,,,,,,,,,,
+Chesnaught,Grass,Fighting,,RU,,,,Grass,Fighting,,Shadow Claw,Pin Missile,Zen Headbutt,Iron Head,Gyro Ball,Iron Tail,Earthquake,Crunch,Knock Off,Payback,,,,,,,,,,,,,,
+Chimecho,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Dazzling Gleam,Energy Ball,Grass Knot,Signal Beam,Knock Off,,,,,,,,,,,,,,,,,,
+Claydol,Ground,Psychic,,RU,,,,Ground,Psychic,,Hex,Shadow Ball,Dazzling Gleam,Grass Knot,Solar Beam,Signal Beam,Gyro Ball,Body Press,,,,,,,,,,,,,,,,
+Cloyster,Water,Ice,,RU,,Yes,,Water,,,Pin Missile,Signal Beam,Drill Run,Payback,,,,,,,,,,,,,,,,,,,,
+Cobalion,Steel,Fighting,,RU,,Yes,,Steel,Fighting,,Megahorn,X Scissor,Zen Headbutt,,,,,,,,,,,,,,,,,,,,,
+Cofagrigus,Ghost,,,RU,,,,Ghost,,,Energy Ball,Grass Knot,Psychic,Body Press,Revenge,Dark Pulse,Knock Off,Payback,,,,,,,,,,,,,,,,
+Comfey,Fairy,,,RU,,,,Fairy,,,Play Rough,Energy Ball,Giga Drain,Seed Bomb,Uturn,Pollen Puff,Stored Power,Knock Off,,,,,,,,,,,,,,,,
+Copperajah,Steel,,,RU,,,,Steel,,,Play Rough,Power Whip,Zen Headbutt,Body Press,Brick Break,Superpower,Revenge,Earthquake,Earth Power,Knock Off,Payback,,,,,,,,,,,,,
+Crabominable,Fighting,Ice,,RU,,,,Fighting,,,Crabhammer,Liquidation,Liquidation,Zen Headbutt,Iron Head,Hard Press,Earthquake,Knock Off,Payback,Payback,,,,,,,,,,,,,,
+Cresselia,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Dazzling Gleam,Moonblast,Energy Ball,Grass Knot,Solar Beam,Signal Beam,,,,,,,,,,,,,,,,,
+Crobat,Poison,Flying,,RU,,,,,,,Hex,Shadow Ball,Giga Drain,Leech Life,Uturn,X Scissor,Zen Headbutt,Steel Wing,Crunch,Dark Pulse,Payback,,,,,,,,,,,,,
+Crustle,Bug,Rock,,RU,,,,Bug,,,Shadow Claw,Solar Beam,Solar Blade,Heavy Slam,Body Press,Earthquake,Knock Off,Night Slash,,,,,,,,,,,,,,,,
+Cursola,Ghost,,,RU,,,,Ghost,,,Hydro Pump,Scald,Surf,Liquidation,Brine,Giga Drain,Leech Life,Leech Life,Pin Missile,Psychic,Revenge,Earth Power,Earthquake,Throat Chop,,,,,,,,,,
+Dachsbun,Fairy,,,RU,,,,Fairy,,,Psychic Fangs,Body Press,Stomping Tantrum,Crunch,,,,,,,,,,,,,,,,,,,,
+Darmanitan,Fire,,,RU,,Yes,,,,,Uturn,Zen Headbutt,Iron Head,Reversal,Body Press,Brick Break,Hammer Arm,Superpower,Earthquake,Lash Out,Payback,,,,,,,,,,,,,
+Decidueye,Grass,Ghost,,RU,,,,Grass,Ghost,,Uturn,Skitter Smack,Psycho Cut,Steel Wing,Low Kick,Low Sweep,Sucker Punch,Knock Off,,,,,,,,,,,,,,,,
+Delcatty,Normal,,,RU,,,,,,,Shadow Ball,Play Rough,Grass Knot,Solar Beam,Zen Headbutt,Iron Tail,Wake Up Slap,Stomping Tantrum,Mud Bomb,Sucker Punch,Payback,,,,,,,,,,,,,
+Delibird,Ice,Flying,,RU,,,Yes,,,,Seed Bomb,Future Sight,Steel Wing,Reversal,Brick Break,Drill Run,Foul Play,,,,,,,,,,,,,,,,,
+Delphox,Fire,Psychic,,RU,,,,Psychic,,,Shadow Ball,Hex,Dazzling Gleam,Grass Knot,Solar Beam,Signal Beam,Iron Tail,Focus Blast,Low Kick,Scorching Sands,Foul Play,,,,,,,,,,,,,
+Deoxys-Defense,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Grass Knot,Solar Beam,Energy Ball,Signal Beam,Meteor Mash,Flash Cannon,Focus Blast,Low Kick,Superpower,Dynamic Punch,Brick Break,Drain Punch,Low Sweep,Stomping Tantrum,Dark Pulse,Throat Chop,Knock Off,,,,,,
+Dewgong,Water,Ice,,RU,,,,Water,,,Play Rough,Megahorn,Signal Beam,Iron Tail,Smart Strike,Drill Run,Knock Off,,,,,,,,,,,,,,,,,
+Diggersby,Normal,Ground,,RU,,,,Ground,,,Surf,Grass Knot,Uturn,Iron Tail,Iron Head,Low Kick,Superpower,Hammer Arm,Brick Break,Foul Play,Knock Off,Payback,,,,,,,,,,,,
+Dodrio,Normal,Flying,,RU,,,,,,,Lunge,Steel Wing,Low Kick,Jump Kick,Drill Run,Stomping Tantrum,Throat Chop,Knock Off,Payback,,,,,,,,,,,,,,,
+Donphan,Ground,,,RU,,Yes,,Ground,,,Play Rough,Seed Bomb,Gyro Ball,Heavy Slam,Iron Tail,Iron Head,Smart Strike,Superpower,Body Press,Throat Chop,Knock Off,Assurance,,,,,,,,,,,,
+Drampa,Normal,Dragon,,RU,,,,,,,Shadow Ball,Shadow Claw,Play Rough,Hydro Pump,Surf,Grass Knot,Solar Beam,Energy Ball,Extrasensory,Steel Wing,Focus Blast,Superpower,Earthquake,Lash Out,,,,,,,,,,
+Drapion,Poison,Dark,,RU,,,,Dark,,,Shadow Ball,Aqua Tail,Bug Buzz,X Scissor,Skitter Smack,Pin Missile,Iron Tail,Brick Break,Earthquake,,,,,,,,,,,,,,,
+Drednaw,Water,Rock,,RU,,,,Water,,,Megahorn,Skitter Smack,Smart Strike,Superpower,Body Press,Earthquake,Earth Power,Crunch,Throat Chop,Jaw Lock,Payback,,,,,,,,,,,,,
+Druddigon,Dragon,,,RU,,,,,,,Shadow Claw,Aqua Tail,Surf,Iron Tail,Flash Cannon,Iron Head,Focus Blast,Superpower,Earthquake,Crunch,Dark Pulse,Lash Out,Sucker Punch,Night Slash,Payback,,,,,,,,,
+Dubwool,Normal,,,RU,,,,,,,Zen Headbutt,Reversal,Body Press,Payback,,,,,,,,,,,,,,,,,,,,
+Dudunsparce,Normal,,,RU,,,,,,,Shadow Ball,Hex,Aqua Tail,Solar Beam,Lunge,Skitter Smack,Zen Headbutt,Gyro Ball,Heavy Slam,Iron Tail,Smart Strike,Body Press,Earthquake,Earth Power,Drill Run,Throat Chop,,,,,,,,
+Dugtrio,Ground,,,RU,,,,Ground,,,Shadow Claw,Reversal,Foul Play,Throat Chop,Night Slash,Sucker Punch,Beat Up,,,,,,,,,,,,,,,,,
+Dugtrio-Alola,Ground,Steel,,RU,,,,Ground,Steel,,Shadow Claw,Reversal,Foul Play,Throat Chop,Night Slash,Sucker Punch,Beat Up,,,,,,,,,,,,,,,,,
+Duraludon,Steel,Dragon,,RU,,,,Steel,,,Solar Beam,Body Press,Brick Break,Stomping Tantrum,Foul Play,Dark Pulse,Night Slash,,,,,,,,,,,,,,,,,
+Durant,Bug,Steel,,RU,,,,Bug,Steel,,Shadow Claw,Energy Ball,Skitter Smack,Superpower,Stomping Tantrum,Crunch,Beat Up,,,,,,,,,,,,,,,,,
+Dusknoir,Ghost,,,RU,,,,Ghost,,,Leech Life,Skitter Smack,Future Sight,Psychic,Hard Press,Focus Blast,Dynamic Punch,Brick Break,Revenge,Darkest Lairat,Dark Pulse,Sucker Punch,Payback,,,,,,,,,,,
+Dustox,Bug,Poison,,RU,,,,Bug,,,Shadow Ball,Solar Beam,Energy Ball,Giga Drain,Psychic,,,,,,,,,,,,,,,,,,,
+Eelektross,Electric,,,RU,,,,,,,Hex,Aqua Tail,Liquidation,Grass Knot,Giga Drain,Lunge,Signal Beam,Uturn,Zen Headbutt,Heavy Slam,Iron Tail,Flash Cannon,Close Combat,Superpower,Body Press,Brick Break,Drain Punch,Stomping Tantrum,Crunch,Throat Chop,Knock Off,,,
+Electivire,Electric,,,RU,,,,,,,Signal Beam,Psychic,Iron Tail,Focus Blast,Low Kick,Cross Chop,Hammer Arm,Dynamic Punch,Submission,Brick Break,Low Sweep,Earthquake,Darkest Lairat,Knock Off,,,,,,,,,,
+Emboar,Fire,Fighting,,RU,,,,Fighting,,,Scald,Grass Knot,Solar Beam,Zen Headbutt,Hard Press,Gyro Ball,Heavy Slam,Iron Tail,Iron Head,Earthquake,Sucker Punch,Knock Off,,,,,,,,,,,,
+Empoleon,Water,Steel,,RU,,Yes,,Water,Steel,,Shadow Claw,Grass Knot,Signal Beam,Brick Break,Vacuum Wave,Earthquake,Throat Chop,Lash Out,Knock Off,Power Trip,,,,,,,,,,,,,,
+Entei,Fire,,,RU,,,,,,,Shadow Ball,Solar Beam,Extrasensory,Iron Tail,Iron Head,Reversal,Stomping Tantrum,Scorching Sands,Crunch,,,,,,,,,,,,,,,
+Escavalier,Bug,Steel,,RU,,,,Bug,Steel,,Razor Shell,Energy Ball,Giga Drain,Reversal,Close Combat,Focus Blast,Revenge,Drill Run,Night Slash,Knock Off,,,,,,,,,,,,,,
+Espeon,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Alluring Voice,Grass Knot,Signal Beam,Iron Tail,,,,,,,,,,,,,,,,,,,
+Exeggutor-Alola,Grass,Dragon,,RU,,,,Grass,,,Psychic,Extrasensory,Psyshock,Zen Headbutt,Psychic Noise,Psybeam,Stored Power,Iron Head,Low Kick,Superpower,Brick Break,Earthquake,Knock Off,,,,,,,,,,,
+Exploud,Normal,,,RU,,,,,,,Shadow Ball,Hydro Pump,Surf,Solar Beam,Synchronoise,Extrasensory,Focus Blast,Low Kick,Hammer Arm,Dynamic Punch,Brick Break,Earthquake,Crunch,,,,,,,,,,,
+Falinks,Fighting,,,RU,,,,Fighting,,,Megahorn,First Impression,Lunge,Zen Headbutt,Iron Head,Smart Strike,High Horsepower,Throat Chop,Knock Off,Payback,Beat Up,,,,,,,,,,,,,
+Farigiraf,Normal,Psychic,,RU,,,,Psychic,,,Shadow Ball,Dazzling Gleam,Grass Knot,Energy Ball,Signal Beam,Iron Tail,Iron Head,Low Kick,Earthquake,Foul Play,Crunch,Sucker Punch,Beat Up,,,,,,,,,,,
+Fearow,Normal,Flying,,RU,,,,,,,Uturn,Steel Wing,Drill Run,Throat Chop,,,,,,,,,,,,,,,,,,,,
+Feraligatr,Water,,,RU,,,,Water,,,Shadow Claw,Psychic Fangs,Iron Tail,Focus Blast,Low Kick,Superpower,Dynamic Punch,Brick Break,Earthquake,Crunch,Lash Out,,,,,,,,,,,,,
+Flareon,Fire,,,RU,,,,,,,Shadow Ball,Alluring Voice,Synchronoise,Stored Power,Iron Tail,Superpower,Scorching Sands,,,,,,,,,,,,,,,,,
+Florges,Fairy,,,RU,,,,Fairy,,,Grass Knot,Petal Dance,Solar Beam,Energy Ball,Petal Blizzard,Seed Bomb,Giga Drain,Pollen Puff,Psychic,Psychic Noise,Stored Power,,,,,,,,,,,,,
+Flygon,Ground,Dragon,,RU,,Yes,,Ground,,,Alluring Voice,Solar Beam,Giga Drain,Bug Buzz,First Impression,Signal Beam,Uturn,Psychic Noise,Iron Tail,Steel Wing,Superpower,Vacuum Wave,Earthquake,Crunch,Throat Chop,,,,,,,,,
+Forretress,Bug,Steel,,RU,,,,Bug,Steel,,Solar Beam,Seed Bomb,Giga Drain,Reversal,Body Press,Revenge,Earthquake,Earth Power,Drill Run,,,,,,,,,,,,,,,
+Froslass,Ice,Ghost,,RU,,,,Ghost,,,Signal Beam,Psychic,Wake Up Slap,Crunch,Sucker Punch,Payback,,,,,,,,,,,,,,,,,,
+Furfrou,Normal,,,RU,,,,,,,Surf,Grass Knot,Uturn,Zen Headbutt,Iron Tail,Dark Pulse,Sucker Punch,,,,,,,,,,,,,,,,,
+Furret,Normal,,,RU,,,,,,,Shadow Ball,Shadow Claw,Play Rough,Aqua Tail,Surf,Grass Knot,Solar Beam,Seed Bomb,Uturn,Zen Headbutt,Iron Tail,Reversal,Focus Blast,Dynamic Punch,Brick Break,Sucker Punch,Knock Off,,,,,,,
+Gallade,Psychic,Fighting,,RU,,,,Psychic,Fighting,,Shadow Ball,Shadow Claw,Hex,Shadow Sneak,Alluring Voice,Dazzling Gleam,Aqua Cutter,Solar Blade,Grass Knot,Energy Ball,Leaf Blade,X Scissor,Signal Beam,Earthquake,Throat Chop,Night Slash,Knock Off,,,,,,,
+Garbodor,Poison,,,RU,,,,,,,Solar Beam,Seed Bomb,Giga Drain,Psychic,Focus Blast,Body Press,Drain Punch,Stomping Tantrum,Dark Pulse,Payback,,,,,,,,,,,,,,
+Gardevoir,Psychic,Fairy,,RU,,,,Psychic,Fairy,,Shadow Ball,Shadow Sneak,Grass Knot,Energy Ball,Signal Beam,Focus Blast,Aura Sphere,Vacuum Wave,Knock Off,,,,,,,,,,,,,,,
+Gastrodon,Water,Ground,,RU,,Yes,,Water,Ground,,Skitter Smack,Earth Power,,,,,,,,,,,,,,,,,,,,,,
+Gigalith,Rock,,,RU,,,,,,,Solar Beam,Heavy Slam,Flash Cannon,Iron Head,Superpower,Body Press,Earthquake,Earth Power,Throat Chop,,,,,,,,,,,,,,,
+Glaceon,Ice,,,RU,,,,,,,Shadow Ball,Alluring Voice,Aqua Tail,Signal Beam,Synchronoise,Stored Power,Iron Tail,,,,,,,,,,,,,,,,,
+Glalie,Ice,,,RU,,,,,,,Shadow Ball,Hex,Signal Beam,Gyro Ball,Iron Head,Earthquake,Foul Play,Crunch,Dark Pulse,Payback,,,,,,,,,,,,,,
+Glastrier,Ice,,,RU,,,,,,,Megahorn,Zen Headbutt,Heavy Slam,Smart Strike,Close Combat,Superpower,Body Press,Crunch,Throat Chop,Lash Out,Payback,,,,,,,,,,,,,
+Gogoat,Grass,,,RU,,,,Grass,,,Play Rough,Surf,Zen Headbutt,Iron Tail,Superpower,Brick Break,Earthquake,Throat Chop,Payback,,,,,,,,,,,,,,,
+Golduck,Water,,,RU,,,,Water,,,Shadow Claw,Grass Knot,Signal Beam,Future Sight,Synchronoise,Psychic,Psyshock,Zen Headbutt,Psychic Noise,Psybeam,Iron Tail,Focus Blast,Low Kick,Cross Chop,Dynamic Punch,Submission,Brick Break,Low Sweep,Vacuum Wave,Mud Bomb,Knock Off,,,
+Golem,Rock,Ground,,RU,,,,Ground,,,Steamroller,Hard Press,Gyro Ball,Heavy Slam,Iron Head,Focus Blast,Superpower,Hammer Arm,Dynamic Punch,Body Press,Submission,Brick Break,Sucker Punch,,,,,,,,,,,
+Golem-Alola,Rock,Electric,,RU,,,,,,,Steamroller,Hard Press,Gyro Ball,Heavy Slam,Focus Blast,Superpower,Body Press,Brick Break,Earthquake,Earth Power,,,,,,,,,,,,,,
+Golisopod,Bug,Water,,RU,,,,Bug,Water,,Shadow Claw,Iron Head,Close Combat,Focus Blast,Brick Break,Drill Run,Dark Pulse,Throat Chop,Sucker Punch,Knock Off,Payback,,,,,,,,,,,,,
+Golurk,Ground,Ghost,,RU,,,,Ground,Ghost,,Grass Knot,Solar Beam,Signal Beam,Psychic,Zen Headbutt,Hard Press,Gyro Ball,Heavy Slam,Flash Cannon,Close Combat,Focus Blast,Low Kick,Superpower,Hammer Arm,Dynamic Punch,Body Press,Brick Break,Drain Punch,Low Sweep,Darkest Lairat,Knock Off,,,
+Goodra,Dragon,,,RU,,Yes,,,,,Hydro Pump,Aqua Tail,Surf,Muddy Water,Scald,Power Whip,Skitter Smack,Iron Tail,Focus Blast,Superpower,Body Press,Earthquake,Knock Off,,,,,,,,,,,
+Gorebyss,Water,,,RU,,,,Water,,,Shadow Ball,Signal Beam,Psychic,,,,,,,,,,,,,,,,,,,,,
+Gothitelle,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Grass Knot,Energy Ball,Signal Beam,Focus Blast,Brick Break,Low Sweep,Foul Play,Dark Pulse,Payback,,,,,,,,,,,,,,
+Gourgeist,Ghost,Grass,,RU,,,,Ghost,Grass,,Moonblast,Skitter Smack,Psychic,Gyro Ball,Focus Blast,Foul Play,Dark Pulse,,,,,,,,,,,,,,,,,
+Granbull,Fairy,,,RU,,Yes,,Fairy,,,Shadow Ball,Solar Beam,Psychic Fangs,Iron Tail,Reversal,Close Combat,Focus Blast,Low Kick,Dynamic Punch,Brick Break,Low Sweep,Earthquake,Crunch,Lash Out,Payback,,,,,,,,,
+Grapploct,Fighting,,,RU,,,,Fighting,,,Hydro Pump,Surf,Muddy Water,Liquidation,Waterfall,Dive,Brine,Octazooka,Skitter Smack,Stomping Tantrum,Sucker Punch,Payback,,,,,,,,,,,,
+Greedent,Normal,,,RU,,,,,,,Seed Bomb,Bullet Seed,Psychic Fangs,Gyro Ball,Iron Tail,Superpower,Body Press,Earthquake,Crunch,Knock Off,Payback,,,,,,,,,,,,,
+Grimmsnarl,Dark,Fairy,,RU,,,,Dark,Fairy,,Shadow Claw,Power Whip,Leech Life,Focus Blast,Low Kick,Superpower,Hammer Arm,Body Press,Brick Break,Drain Punch,Low Sweep,Revenge,Stomping Tantrum,,,,,,,,,,,
+Grumpig,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Dazzling Gleam,Grass Knot,Energy Ball,Seed Bomb,Lunge,Signal Beam,Iron Tail,Flash Cannon,Focus Blast,Low Kick,Dynamic Punch,Body Press,Brick Break,Drain Punch,Low Sweep,Earth Power,Stomping Tantrum,Payback,,,,,
+Gumshoos,Normal,,,RU,,,,,,,Seed Bomb,Uturn,Psychic Fangs,Zen Headbutt,Iron Tail,Iron Head,Reversal,Low Sweep,Revenge,Earthquake,Crunch,Knock Off,Payback,,,,,,,,,,,
+Guzzlord,Dark,Dragon,,RU,,,,Dark,,,Shadow Claw,Steamroller,Gyro Ball,Heavy Slam,Iron Tail,Iron Head,Hammer Arm,Body Press,Brick Break,Drain Punch,Earthquake,,,,,,,,,,,,,
+Hariyama,Fighting,,,RU,,,,Fighting,,,Surf,Brine,Zen Headbutt,Heavy Slam,Iron Head,Bullet Punch,Headlong Rush,Earthquake,Throat Chop,Lash Out,Knock Off,Payback,,,,,,,,,,,,
+Heatmor,Fire,,,RU,,,,,,,Shadow Claw,Solar Beam,Giga Drain,Focus Blast,Low Kick,Superpower,Drain Punch,Stomping Tantrum,Scorching Sands,Throat Chop,Sucker Punch,Night Slash,Knock Off,,,,,,,,,,,
+Heracross,Bug,Fighting,,RU,,,,Bug,Fighting,,Shadow Claw,Bullet Seed,Smart Strike,Earthquake,Throat Chop,Night Slash,Knock Off,,,,,,,,,,,,,,,,,
+Hitmonchan,Fighting,,,RU,,,,Fighting,,,Bullet Punch,Earthquake,Throat Chop,Knock Off,,,,,,,,,,,,,,,,,,,,
+Hitmonlee,Fighting,,,RU,,,,Fighting,,,Lunge,Bullet Punch,Earthquake,Throat Chop,Sucker Punch,Knock Off,,,,,,,,,,,,,,,,,,
+Hitmontop,Fighting,,,RU,,,,Fighting,,,Gyro Ball,Bullet Punch,Earthquake,Drill Run,Sucker Punch,Brutal Swing,Thief,,,,,,,,,,,,,,,,,
+Honchkrow,Dark,Flying,,RU,,,,Dark,,,Shadow Ball,Hex,Uturn,Psychic,Psychic Noise,Steel Wing,Superpower,,,,,,,,,,,,,,,,,
+Hoopa,Psychic,Ghost,,RU,,,,Psychic,Ghost,,Grass Knot,Energy Ball,Signal Beam,Skitter Smack,Focus Blast,Brick Break,Drain Punch,Dark Pulse,Throat Chop,Lash Out,Knock Off,,,,,,,,,,,,,
+Houndoom,Dark,Fire,,RU,,,,Dark,,,Shadow Ball,Solar Beam,Psychic Fangs,Iron Tail,Reversal,,,,,,,,,,,,,,,,,,,
+Houndstone,Ghost,,,RU,,,,Ghost,,,Play Rough,Psychic Fangs,Body Press,Stomping Tantrum,Crunch,,,,,,,,,,,,,,,,,,,
+Hypno,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Hex,Dazzling Gleam,Grass Knot,Signal Beam,Focus Blast,Low Kick,Dynamic Punch,Body Press,Submission,Brick Break,Drain Punch,Wake Up Slap,Low Sweep,Foul Play,Knock Off,,,,,,,,
+Incineroar,Fire,Dark,,RU,,,,Dark,,,Shadow Claw,Leech Life,Uturn,Iron Head,Reversal,Close Combat,Focus Blast,Low Kick,Cross Chop,Brick Break,Drain Punch,Low Sweep,Revenge,Earthquake,Scorching Sands,,,,,,,,,
+Indeedee,Psychic,Normal,,RU,,,,Psychic,,,Shadow Ball,Play Rough,Dazzling Gleam,Energy Ball,Drain Punch,,,,,,,,,,,,,,,,,,,
+Indeedee-F,Psychic,Normal,,RU,,,,Psychic,,,Shadow Ball,Alluring Voice,Play Rough,Dazzling Gleam,Energy Ball,Drain Punch,,,,,,,,,,,,,,,,,,
+Infernape,Fire,Fighting,,RU,,,,Fighting,,,Shadow Claw,Grass Knot,Solar Beam,Uturn,Zen Headbutt,Iron Tail,Earthquake,Scorching Sands,Throat Chop,Lash Out,Knock Off,,,,,,,,,,,,,
+Iron Jugulis,Dark,Flying,,RU,,,,Dark,,,Hydro Pump,Uturn,Zen Headbutt,Flash Cannon,Iron Head,Focus Blast,Earth Power,,,,,,,,,,,,,,,,,
+Iron Thorns,Rock,Electric,,RU,,,,,,,Pin Missile,Heavy Slam,Iron Head,Focus Blast,Low Kick,Body Press,Brick Break,Earthquake,Earth Power,Crunch,,,,,,,,,,,,,,
+Jellicent,Water,Ghost,,RU,,,,Water,Ghost,,Dazzling Gleam,Energy Ball,Giga Drain,Psychic,Dark Pulse,,,,,,,,,,,,,,,,,,,
+Jolteon,Electric,,,RU,,,,,,,Shadow Ball,Alluring Voice,Signal Beam,Pin Missile,Synchronoise,Stored Power,Iron Tail,,,,,,,,,,,,,,,,,
+Jynx,Ice,Psychic,,RU,,,,Psychic,,,Shadow Ball,Bubble Beam,Grass Knot,Energy Ball,Signal Beam,Focus Blast,Dynamic Punch,Submission,Brick Break,Drain Punch,Wake Up Slap,Payback,,,,,,,,,,,,
+Kabutops,Rock,Water,,RU,,,,Water,,,Giga Drain,Leech Life,X Scissor,Psycho Cut,Low Kick,Superpower,Submission,Brick Break,Earth Power,Night Slash,Knock Off,,,,,,,,,,,,,
+Kangaskhan,Normal,,,RU,,,,,,,Shadow Ball,Shadow Claw,Aqua Tail,Surf,Bubble Beam,Hydro Pump,Solar Beam,Iron Tail,Reversal,Focus Blast,Low Kick,Hammer Arm,Dynamic Punch,Submission,Drain Punch,Brick Break,Earthquake,Crunch,Sucker Punch,Beat Up,,,,
+Kecleon,Normal,,,RU,,,,,,,Shadow Ball,Shadow Claw,Shadow Sneak,Aqua Tail,Grass Knot,Solar Beam,Synchronoise,Iron Tail,Low Kick,Dynamic Punch,Brick Break,Drain Punch,Foul Play,Sucker Punch,Knock Off,,,,,,,,,
+Kingler,Water,,,RU,,,,Water,,,X Scissor,Superpower,Hammer Arm,Brick Break,High Horsepower,Stomping Tantrum,Night Slash,Knock Off,,,,,,,,,,,,,,,,
+Klawf,Rock,,,RU,Yes,,,,,,Shadow Claw,Crabhammer,X Scissor,Skitter Smack,Reversal,Brick Break,High Horsepower,Earth Power,Stomping Tantrum,Throat Chop,Knock Off,,,,,,,,,,,,,
+Kleavor,Bug,Rock,,RU,,Yes,,Bug,,,Psycho Cut,Steel Wing,Reversal,Close Combat,Brick Break,Vacuum Wave,Night Slash,Knock Off,,,,,,,,,,,,,,,,
+Klefki,Steel,Fairy,,RU,,,,Steel,Fairy,,Skitter Smack,Psychic,Psyshock,Stored Power,Foul Play,,,,,,,,,,,,,,,,,,,
+Komala,Normal,,,RU,,,,,,,Shadow Claw,Play Rough,Wood Hammer,Seed Bomb,Uturn,Zen Headbutt,Iron Head,Reversal,Low Kick,Superpower,Brick Break,Low Sweep,Earthquake,Sucker Punch,Knock Off,Payback,,,,,,,,
+Krookodile,Ground,Dark,,RU,,,,Ground,Dark,,Shadow Claw,Aqua Tail,Grass Knot,Skitter Smack,Iron Tail,Focus Blast,Low Kick,Close Combat,Brick Break,Low Sweep,Revenge,Foul Play,,,,,,,,,,,,
+Lanturn,Water,Electric,,RU,,,,Water,,,Dazzling Gleam,Signal Beam,Psybeam,Sucker Punch,,,,,,,,,,,,,,,,,,,,
+Lapras,Water,Ice,,RU,,,,Water,,,Alluring Voice,Solar Beam,Megahorn,Signal Beam,Future Sight,Zen Headbutt,Psychic Noise,Iron Tail,Smart Strike,Iron Head,Body Press,Earthquake,Drill Run,,,,,,,,,,,
+Latias,Dragon,Psychic,,RU,,,,Psychic,,,Shadow Ball,Shadow Claw,Alluring Voice,Surf,Liquidation,Waterfall,Dive,Grass Knot,Solar Beam,Energy Ball,Steel Wing,Aura Sphere,Earthquake,Sucker Punch,,,,,,,,,,
+Leafeon,Grass,,,RU,,,,Grass,,,Shadow Ball,Alluring Voice,X Scissor,Synchronoise,Stored Power,Iron Tail,Knock Off,,,,,,,,,,,,,,,,,
+Ledian,Bug,Flying,,RU,,,,Bug,,,Solar Beam,Giga Drain,Psybeam,Focus Blast,Dynamic Punch,Brick Break,Drain Punch,Mach Punch,Knock Off,,,,,,,,,,,,,,,
+Lickilicky,Normal,,,RU,,,,,,,Shadow Ball,Hydro Pump,Aqua Tail,Surf,Muddy Water,Bubble Beam,Power Whip,Solar Beam,Zen Headbutt,Gyro Ball,Iron Tail,Focus Blast,Hammer Arm,Dynamic Punch,Body Press,Submission,Brick Break,Earthquake,Stomping Tantrum,Knock Off,,,,
+Liepard,Dark,,,RU,,,,Dark,,,Shadow Ball,Shadow Claw,Play Rough,Grass Knot,Seed Bomb,Uturn,Skitter Smack,Psycho Cut,Iron Tail,,,,,,,,,,,,,,,
+Linoone,Normal,,,RU,Yes,,,,,,Shadow Ball,Shadow Claw,Play Rough,Surf,Grass Knot,Seed Bomb,Pin Missile,Iron Tail,Stomping Tantrum,Throat Chop,,,,,,,,,,,,,,
+Lucario,Fighting,Steel,,RU,,,,Fighting,Steel,,Shadow Ball,Shadow Claw,Psychic,Zen Headbutt,Earthquake,Bone Rush,Crunch,Dark Pulse,Payback,,,,,,,,,,,,,,,
+Ludicolo,Water,Grass,,RU,,,,Water,Grass,,Zen Headbutt,Focus Blast,Dynamic Punch,Brick Break,Drain Punch,Knock Off,,,,,,,,,,,,,,,,,,
+Lumineon,Water,,,RU,,,,Water,,,Alluring Voice,Dazzling Gleam,Signal Beam,Uturn,Psybeam,Payback,,,,,,,,,,,,,,,,,,
+Lunatone,Rock,Psychic,,RU,,,,Psychic,,,Shadow Ball,Moonblast,Grass Knot,Signal Beam,Gyro Ball,Iron Head,Earthquake,Earth Power,,,,,,,,,,,,,,,,
+Lurantis,Grass,,,RU,,,,Grass,,,Pollen Puff,Leech Life,X Scissor,Signal Beam,Skitter Smack,Psycho Cut,Superpower,Brick Break,Low Sweep,Night Slash,Knock Off,Payback,,,,,,,,,,,,
+Luxray,Electric,,,RU,,,,,,,Play Rough,Signal Beam,Psychic Fangs,Iron Tail,Superpower,Crunch,Throat Chop,Night Slash,,,,,,,,,,,,,,,,
+Lycanroc,Rock,,,RU,,,,,,,Play Rough,Psychic Fangs,Zen Headbutt,Iron Tail,Iron Head,Close Combat,Brick Break,Earth Power,Drill Run,Stomping Tantrum,Crunch,Sucker Punch,,,,,,,,,,,,
+Lycanroc-Dusk,Rock,,,RU,,,,,,,Play Rough,Psychic Fangs,Zen Headbutt,Iron Tail,Iron Head,Reversal,Close Combat,Brick Break,Earth Power,Drill Run,Stomping Tantrum,Crunch,Throat Chop,Sucker Punch,,,,,,,,,,
+Lycanroc-Midnight,Rock,,,RU,,,,,,,Shadow Claw,Play Rough,Psychic Fangs,Zen Headbutt,Iron Tail,Iron Head,Reversal,Close Combat,Brick Break,Low Sweep,Earth Power,Stomping Tantrum,Foul Play,Crunch,Throat Chop,Lash Out,Sucker Punch,Knock Off,,,,,,
+Mabosstiff,Dark,,,RU,,,,Dark,,,Play Rough,Psychic Fangs,Reversal,,,,,,,,,,,,,,,,,,,,,
+Machamp,Fighting,,,RU,,,,Fighting,,,Heavy Slam,Bullet Punch,Earthquake,Darkest Lairat,Throat Chop,Knock Off,Payback,,,,,,,,,,,,,,,,,
+Magmortar,Fire,,,RU,,Yes,,,,,Solar Beam,Psychic,Iron Tail,Focus Blast,Low Kick,Cross Chop,Dynamic Punch,Submission,Brick Break,Low Sweep,Mach Punch,Earthquake,Scorching Sands,Knock Off,,,,,,,,,,
+Malamar,Dark,Psychic,,RU,,,,Dark,Psychic,,Liquidation,Lunge,Signal Beam,Psychic,Reversal,Superpower,,,,,,,,,,,,,,,,,,
+Mandibuzz,Dark,Flying,,RU,,,,Dark,,,Shadow Ball,Uturn,Steel Wing,Bone Rush,,,,,,,,,,,,,,,,,,,,
+Manectric,Electric,,,RU,,,,,,,Signal Beam,Psychic Fangs,Iron Tail,Crunch,,,,,,,,,,,,,,,,,,,,
+Mantine,Water,Flying,,RU,,,,Water,,,Seed Bomb,Bullet Seed,Signal Beam,Iron Head,Body Press,Earthquake,,,,,,,,,,,,,,,,,,
+Marowak,Ground,,,RU,,,,Ground,,,Bubble Beam,Iron Tail,Iron Head,Low Kick,Dynamic Punch,Submission,Brick Break,Throat Chop,Knock Off,,,,,,,,,,,,,,,
+Marowak-Alola,Fire,Ghost,,RU,,,,Ghost,,,Iron Tail,Iron Head,Focus Blast,Low Kick,Dynamic Punch,Submission,Brick Break,Earthquake,Earth Power,Scorching Sands,Bone Club,Bonemerang,Bone Rush,Dark Pulse,Throat Chop,Knock Off,,,,,,,,
+Mawile,Steel,Fairy,,RU,,,,Steel,Fairy,,Shadow Ball,Grass Knot,Solar Beam,Psychic Fangs,Focus Blast,Dynamic Punch,Brick Break,Foul Play,Crunch,Dark Pulse,Sucker Punch,Knock Off,Payback,,,,,,,,,,,
+Medicham,Fighting,Psychic,,RU,,Yes,,Fighting,Psychic,,Shadow Ball,Grass Knot,Energy Ball,Signal Beam,,,,,,,,,,,,,,,,,,,,
+Meganium,Grass,,,RU,,,,Grass,,,Zen Headbutt,Iron Tail,Body Press,Earthquake,Knock Off,,,,,,,,,,,,,,,,,,,
+Meloetta,Normal,Psychic,Fighting,RU,,,,Psychic,Fighting,,Shadow Ball,Shadow Claw,Play Rough,Alluring Voice,Dazzling Gleam,Grass Knot,Energy Ball,Signal Beam,Uturn,Close Combat,Focus Blast,Low Kick,Reversal,Brick Break,Drain Punch,Wake Up Slap,Low Sweep,Knock Off,Payback,,,,,
+Meowstic,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Alluring Voice,Play Rough,Energy Ball,Signal Beam,Iron Tail,Dark Pulse,Sucker Punch,Payback,,,,,,,,,,,,,,,
+Meowstic-F,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Play Rough,Alluring Voice,Energy Ball,Signal Beam,Iron Tail,Dark Pulse,Sucker Punch,Payback,,,,,,,,,,,,,,,
+Mesprit,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Play Rough,Dazzling Gleam,Grass Knot,Energy Ball,Signal Beam,Uturn,Iron Tail,Drain Punch,Knock Off,,,,,,,,,,,,,,
+Metagross,Steel,Psychic,,RU,,Yes,,Steel,Psychic,,Shadow Ball,Shadow Claw,Grass Knot,Signal Beam,Hammer Arm,Dynamic Punch,Body Press,Brick Break,Earthquake,Knock Off,,,,,,,,,,,,,,
+Mightyena,Dark,,,RU,,,,Dark,,,Shadow Ball,Play Rough,Psychic Fangs,Iron Tail,,,,,,,,,,,,,,,,,,,,
+Miltank,Normal,,,RU,,,,,,,Shadow Ball,Play Rough,Surf,Solar Beam,Zen Headbutt,Gyro Ball,Heavy Slam,Iron Tail,Iron Head,Reversal,Focus Blast,Hammer Arm,Dynamic Punch,Body Press,Brick Break,Wake Up Slap,Earthquake,,,,,,,
+Mimikyu,Ghost,Fairy,,RU,,,,Ghost,Fairy,,Wood Hammer,Giga Drain,Leech Life,X Scissor,Psychic,Drain Punch,Dark Pulse,Payback,,,,,,,,,,,,,,,,
+Minior,Rock,Flying,,RU,,,,,,,Dazzling Gleam,Solar Beam,Uturn,Psychic,Zen Headbutt,Gyro Ball,Iron Head,Earthquake,Earth Power,Scorching Sands,,,,,,,,,,,,,,
+Mismagius,Ghost,,,RU,Yes,,,Ghost,,,Dazzling Gleam,Grass Knot,Energy Ball,Future Sight,Psychic,Psyshock,Psychic Noise,Psybeam,Stored Power,Foul Play,Dark Pulse,Lash Out,Sucker Punch,Payback,,,,,,,,,,
+Morpeko,Electric,Dark,,RU,,,,Dark,,,Seed Bomb,Bullet Seed,Psychic Fangs,Reversal,Brick Break,Revenge,Stomping Tantrum,,,,,,,,,,,,,,,,,
+Mothim,Bug,Flying,,RU,,,,Bug,,,Shadow Ball,Solar Beam,Energy Ball,Giga Drain,Psychic,Psybeam,,,,,,,,,,,,,,,,,,
+Mr. Mime,Psychic,Fairy,,RU,,,,Psychic,Fairy,,Shadow Ball,Grass Knot,Solar Beam,Energy Ball,Signal Beam,Focus Blast,Dynamic Punch,Submission,Brick Break,Drain Punch,Wake Up Slap,Foul Play,Sucker Punch,Payback,,,,,,,,,,
+Mr. Rime,Ice,Psychic,,RU,,,,Psychic,,,Shadow Ball,Dazzling Gleam,Grass Knot,Energy Ball,Solar Beam,Signal Beam,Focus Blast,Brick Break,Drain Punch,Wake Up Slap,Stomping Tantrum,Foul Play,Sucker Punch,Payback,,,,,,,,,,
+Mudsdale,Ground,,,RU,,,,Ground,,,Heavy Slam,Close Combat,Focus Blast,Low Kick,Superpower,Body Press,Low Sweep,Revenge,Lash Out,Payback,,,,,,,,,,,,,,
+Muk,Poison,,,RU,,,,,,,Shadow Ball,Hex,Shadow Sneak,Moonblast,Giga Drain,Zen Headbutt,Focus Blast,Dynamic Punch,Brick Break,Drain Punch,Mud Bomb,Dark Pulse,Lash Out,Knock Off,Payback,,,,,,,,,
+Muk-Alola,Poison,Dark,,RU,,Yes,,Dark,,,Shadow Ball,Hex,Shadow Sneak,Moonblast,Giga Drain,Zen Headbutt,Focus Blast,Brick Break,Drain Punch,,,,,,,,,,,,,,,
+Munkidori,Poison,Psychic,,RU,,,,Psychic,,,Poltergeist,Shadow Ball,Shadow Claw,Hex,Grass Knot,Uturn,Focus Blast,Lash Out,,,,,,,,,,,,,,,,
+Musharna,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Misty Explosion,Moonblast,Dazzling Gleam,Energy Ball,Signal Beam,Gyro Ball,,,,,,,,,,,,,,,,,
+Necrozma,Psychic,,,RU,,,,Psychic,,,Shadow Claw,Solar Beam,X Scissor,Signal Beam,Flash Cannon,Iron Head,Smart Strike,Brick Break,Earthquake,Earth Power,Dark Pulse,Night Slash,Knock Off,,,,,,,,,,,
+Nidoking,Poison,Ground,,RU,,,,Ground,,,Shadow Ball,Shadow Claw,Hex,Aqua Tail,Surf,Bubble Beam,Megahorn,Iron Tail,Smart Strike,Focus Blast,Superpower,Dynamic Punch,Body Press,Submission,Brick Break,Throat Chop,Sucker Punch,,,,,,,
+Nidoqueen,Poison,Ground,,RU,,,,Ground,,,Shadow Ball,Shadow Claw,Hex,Aqua Tail,Surf,Bubble Beam,Iron Tail,Focus Blast,Superpower,Dynamic Punch,Body Press,Submission,Brick Break,Crunch,Throat Chop,Sucker Punch,Beat Up,,,,,,,
+Nihilego,Rock,Poison,,RU,,,,,,,Hex,Dazzling Gleam,Grass Knot,Psychic,Psyshock,Zen Headbutt,Iron Head,Foul Play,Knock Off,,,,,,,,,,,,,,,
+Noivern,Flying,Dragon,,RU,,,,,,,Shadow Ball,Shadow Claw,Solar Beam,Leech Life,X Scissor,Uturn,Psychic,Psychic Noise,Iron Tail,Steel Wing,Focus Blast,Brick Break,Dark Pulse,,,,,,,,,,,
+Obstagoon,Dark,Normal,,RU,,,,Dark,,,Shadow Ball,Shadow Claw,Surf,Grass Knot,Seed Bomb,X Scissor,Pin Missile,Iron Tail,Reversal,Close Combat,Low Kick,Cross Chop,Body Press,Submission,Brick Break,Revenge,Stomping Tantrum,,,,,,,
+Octillery,Water,,,RU,,,,Water,,,Energy Ball,Seed Bomb,Bullet Seed,Signal Beam,Skitter Smack,Psychic,Psybeam,Flash Cannon,Payback,,,,,,,,,,,,,,,
+Ogerpon,Grass,,,RU,,,,Grass,,,Play Rough,Uturn,Zen Headbutt,Reversal,Low Kick,Superpower,Brick Break,Low Sweep,Stomping Tantrum,Throat Chop,Lash Out,Knock Off,,,,,,,,,,,,
+Oinkologne,Normal,,,RU,,,,,,,Play Rough,Energy Ball,Seed Bomb,Bullet Seed,Zen Headbutt,Iron Head,Body Press,High Horsepower,Earth Power,Stomping Tantrum,Lash Out,,,,,,,,,,,,,
+Oinkologne-F,Normal,,,RU,,,,,,,Play Rough,Energy Ball,Seed Bomb,Bullet Seed,Zen Headbutt,Iron Head,Body Press,High Horsepower,Earth Power,Stomping Tantrum,Lash Out,,,,,,,,,,,,,
+Okidogi,Poison,Fighting,,RU,,,,Fighting,,,Shadow Claw,Psychic Fangs,Hard Press,Iron Head,High Horsepower,Stomping Tantrum,Crunch,Throat Chop,Lash Out,Knock Off,,,,,,,,,,,,,,
+Omastar,Rock,Water,,RU,,,,Water,,,Pin Missile,Gyro Ball,Submission,Earth Power,Crunch,Knock Off,,,,,,,,,,,,,,,,,,
+Oranguru,Normal,Psychic,,RU,,,,Psychic,,,Shadow Ball,Energy Ball,Focus Blast,Brick Break,Foul Play,Knock Off,Payback,,,,,,,,,,,,,,,,,
+Orbeetle,Bug,Psychic,,RU,,,,Bug,Psychic,,Shadow Ball,Solar Beam,Energy Ball,Giga Drain,Body Press,Payback,,,,,,,,,,,,,,,,,,
+Oricorio-Pa'u,Psychic,Flying,,RU,,,,Psychic,,,Alluring Voice,Uturn,Steel Wing,Reversal,,,,,,,,,,,,,,,,,,,,
+Pangoro,Fighting,Dark,,RU,,,,Fighting,Dark,,Shadow Claw,Surf,Grass Knot,X Scissor,Zen Headbutt,Iron Head,Earthquake,,,,,,,,,,,,,,,,,
+Parasect,Bug,Grass,,RU,,,,Bug,Grass,,Psybeam,Brick Break,Throat Chop,Knock Off,,,,,,,,,,,,,,,,,,,,
+Passimian,Fighting,,,RU,,,,Fighting,,,Shadow Ball,Grass Knot,Energy Ball,Seed Bomb,Uturn,Gyro Ball,Iron Tail,Iron Head,Earthquake,Knock Off,Payback,Beat Up,,,,,,,,,,,,
+Phione,Water,,,RU,,,,Water,,,Alluring Voice,Dazzling Gleam,Grass Knot,Signal Beam,Uturn,Zen Headbutt,Knock Off,,,,,,,,,,,,,,,,,
+Pinsir,Bug,,Flying,RU,,,,Bug,,,Reversal,Close Combat,Focus Blast,Submission,Brick Break,Vital Throw,Storm Throw,Revenge,Earthquake,Throat Chop,Knock Off,,,,,,,,,,,,,
+Politoed,Water,,,RU,,,,Water,,,Psychic,Focus Blast,Low Kick,Dynamic Punch,Submission,Brick Break,Wake Up Slap,Low Sweep,Earthquake,Earth Power,Payback,,,,,,,,,,,,,
+Poliwrath,Water,Fighting,,RU,,,,Water,Fighting,,Psychic,Earthquake,Earth Power,Mud Bomb,Darkest Lairat,Throat Chop,Knock Off,Payback,,,,,,,,,,,,,,,,
+Primarina,Water,Fairy,,RU,,,,Water,Fairy,,Shadow Ball,Energy Ball,Psychic,Psychic Noise,Stored Power,Iron Tail,,,,,,,,,,,,,,,,,,
+Purugly,Normal,,,RU,,,,,,,Shadow Ball,Shadow Claw,Play Rough,Uturn,Iron Tail,Wake Up Slap,Stomping Tantrum,Foul Play,Throat Chop,Sucker Punch,Knock Off,Payback,,,,,,,,,,,,
+Rabsca,Bug,Psychic,,RU,,,,Bug,Psychic,,Poltergeist,Shadow Ball,Dazzling Gleam,Energy Ball,Earth Power,,,,,,,,,,,,,,,,,,,
+Raichu-Alola,Electric,Psychic,,RU,,,,Psychic,,,Play Rough,Alluring Voice,Surf,Grass Knot,Signal Beam,Iron Tail,Reversal,Focus Blast,Dynamic Punch,Submission,Brick Break,Knock Off,,,,,,,,,,,,
+Raikou,Electric,,,RU,,,,,,,Shadow Ball,Scald,Signal Beam,Extrasensory,Iron Tail,Iron Head,Aura Sphere,Crunch,Throat Chop,,,,,,,,,,,,,,,
+Ramparados,Rock,,,RU,,,,,,,Surf,Zen Headbutt,Heavy Slam,Iron Tail,Iron Head,Focus Blast,Superpower,Hammer Arm,Body Press,Brick Break,Earthquake,Earth Power,Crunch,Payback,,,,,,,,,,
+Rapidash,Fire,,,RU,,,,,,,Play Rough,Solar Blade,Solar Beam,Megahorn,Iron Tail,Smart Strike,Low Kick,High Horsepower,Drill Run,Scorching Sands,Throat Chop,,,,,,,,,,,,,
+Rapidash-Galar,Psychic,Fairy,,RU,,,,Psychic,Fairy,,Megahorn,Iron Tail,Smart Strike,Low Kick,High Horsepower,Drill Run,Throat Chop,,,,,,,,,,,,,,,,,
+Raticate,Normal,,,RU,,,,,,,Shadow Ball,Bubble Beam,Grass Knot,Uturn,Zen Headbutt,Iron Tail,Reversal,Revenge,Stomping Tantrum,Crunch,Throat Chop,Sucker Punch,,,,,,,,,,,,
+Raticate-Alola,Dark,Normal,,RU,,,,Dark,,,Shadow Ball,Shadow Claw,Grass Knot,Uturn,Zen Headbutt,Iron Tail,Reversal,Revenge,Stomping Tantrum,Sucker Punch,,,,,,,,,,,,,,
+Regice,Ice,,,RU,,,,,,,Signal Beam,Heavy Slam,Flash Cannon,Iron Head,Focus Blast,Superpower,Hammer Arm,Dynamic Punch,Brick Break,Body Press,Earthquake,,,,,,,,,,,,,
+Regidrago,Dragon,,,RU,,,,,,,Reversal,Hammer Arm,Earthquake,Earth Power,Crunch,,,,,,,,,,,,,,,,,,,
+Regigigas,Normal,,,RU,Yes,,,,,,Zen Headbutt,Hard Press,Heavy Slam,Iron Head,Focus Blast,Superpower,Hammer Arm,Body Press,Brick Break,Drain Punch,Earthquake,Earth Power,Darkest Lairat,Knock Off,Payback,,,,,,,,,
+Registeel,Steel,,,RU,Yes,,,Steel,,,Shadow Claw,Focus Blast,Superpower,Hammer Arm,Dynamic Punch,Body Press,Brick Break,Earthquake,,,,,,,,,,,,,,,,
+Reuniclus,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Grass Knot,Energy Ball,Signal Beam,Gyro Ball,Flash Cannon,Focus Blast,Superpower,Hammer Arm,Drain Punch,Knock Off,,,,,,,,,,,,,
+Rhyperior,Ground,Rock,,RU,,,,Ground,,,Shadow Claw,Hydro Pump,Aqua Tail,Surf,Bubble Beam,Megahorn,Heavy Slam,Iron Tail,Flash Cannon,Iron Head,Smart Strike,Reversal,Focus Blast,Superpower,Hammer Arm,Dynamic Punch,Body Press,Submission,Brick Break,Crunch,Payback,,,
+Ribombee,Bug,Fairy,,RU,,,,Bug,Fairy,,Grass Knot,Solar Beam,Energy Ball,Psychic,Psychic Noise,Stored Power,,,,,,,,,,,,,,,,,,
+Roserade,Grass,Poison,,RU,,,,Grass,,,Shadow Ball,Dazzling Gleam,Pin Missile,Extrasensory,,,,,,,,,,,,,,,,,,,,
+Rotom-Mow,Electric,Grass,,RU,,,,Grass,,,Poltergeist,Shadow Ball,Hex,Signal Beam,Stored Power,Foul Play,Dark Pulse,Sucker Punch,,,,,,,,,,,,,,,,
+Runerigus,Ground,Ghost,,RU,,,,Ground,Ghost,,Grass Knot,Energy Ball,Psychic,Zen Headbutt,Revenge,Dark Pulse,Payback,,,,,,,,,,,,,,,,,
+Sableye,Dark,Ghost,,RU,,,,Dark,Ghost,,Dazzling Gleam,Octazooka,Energy Ball,Giga Drain,X Scissor,Signal Beam,Skitter Smack,Psychic,Zen Headbutt,Psybeam,Gyro Ball,Low Kick,Dynamic Punch,Brick Break,Drain Punch,Low Sweep,Dark Pulse,,,,,,,
+Samurott,Water,,,RU,,,,Water,,,Grass Knot,Megahorn,X Scissor,Iron Tail,Smart Strike,Superpower,Sacred Sword,Brick Break,Revenge,Vacuum Wave,Drill Run,Night Slash,Knock Off,,,,,,,,,,,
+Sandaconda,Ground,,,RU,,,,Ground,,,Skitter Smack,Zen Headbutt,Iron Head,Body Press,,,,,,,,,,,,,,,,,,,,
+Sandslash,Ground,,,RU,,,,Ground,,,Shadow Claw,Leech Life,X Scissor,Pin Missile,Gyro Ball,Iron Tail,Focus Blast,Low Kick,Dynamic Punch,Submission,Brick Break,Throat Chop,Night Slash,Knock Off,,,,,,,,,,
+Sandslash-Alola,Ice,Steel,,RU,,,,Steel,,,Shadow Claw,Aqua Tail,Leech Life,X Scissor,Pin Missile,Focus Blast,Low Kick,Brick Break,Earthquake,Drill Run,Throat Chop,Night Slash,Knock Off,,,,,,,,,,,
+Sawk,Fighting,,,RU,,,,Fighting,,,Grass Knot,Zen Headbutt,Earthquake,Throat Chop,Knock Off,Payback,,,,,,,,,,,,,,,,,,
+Sawsbuck,Normal,Grass,,RU,,,,Grass,,,Shadow Ball,Play Rough,Megahorn,Zen Headbutt,Smart Strike,Jump Kick,High Horsepower,Throat Chop,,,,,,,,,,,,,,,,
+Sceptile,Grass,,Dragon,RU,,,,Grass,,,X Scissor,Iron Tail,Focus Blast,Low Kick,Dynamic Punch,Brick Break,Drain Punch,Low Sweep,Vacuum Wave,Earthquake,Crunch,Throat Chop,Night Slash,,,,,,,,,,,
+Scrafty,Dark,Fighting,,RU,,,,Dark,Fighting,,Grass Knot,Zen Headbutt,Iron Tail,Iron Head,,,,,,,,,,,,,,,,,,,,
+Scream Tail,Fairy,Psychic,,RU,,,,Fairy,Psychic,,Grass Knot,Gyro Ball,Focus Blast,Drain Punch,Stomping Tantrum,Crunch,,,,,,,,,,,,,,,,,,
+Seaking,Water,,,RU,,,,Water,,,Megahorn,Signal Beam,Smart Strike,Drill Run,Throat Chop,Knock Off,,,,,,,,,,,,,,,,,,
+Seismitoad,Water,Ground,,RU,,,,Water,Ground,,Grass Knot,Power Whip,Focus Blast,Low Kick,Brick Break,Drain Punch,Knock Off,Payback,,,,,,,,,,,,,,,,
+Seviper,Poison,,,RU,,,,,,,Aqua Tail,Seed Bomb,X Scissor,Skitter Smack,Psychic Fangs,Zen Headbutt,Iron Tail,Iron Head,Reversal,Brick Break,Earthquake,Crunch,Throat Chop,Lash Out,Sucker Punch,Night Slash,Knock Off,Payback,,,,,,
+Sharpedo,Water,Dark,,RU,,,,Water,Dark,,Psychic Fangs,Zen Headbutt,Close Combat,Earthquake,,,,,,,,,,,,,,,,,,,,
+Shiftry,Grass,Dark,,RU,,,,Grass,Dark,,Shadow Ball,Hex,X Scissor,Extrasensory,Reversal,Focus Blast,Low Kick,Brick Break,Low Sweep,Revenge,Vacuum Wave,,,,,,,,,,,,,
+Shuckle,Bug,Rock,,RU,,,,Bug,,,Gyro Ball,Reversal,Earthquake,Earth Power,Knock Off,,,,,,,,,,,,,,,,,,,
+Sigilyph,Psychic,Flying,,RU,,,,Psychic,,,Shadow Ball,Dazzling Gleam,Solar Beam,Energy Ball,Signal Beam,Flash Cannon,Steel Wing,Dark Pulse,,,,,,,,,,,,,,,,
+Silvally,Normal,,,RU,,,,,,,Shadow Ball,Shadow Claw,Surf,X Scissor,Signal Beam,Uturn,Psychic Fangs,Zen Headbutt,Flash Cannon,Iron Head,Steel Wing,Reversal,Crunch,,,,,,,,,,,
+Skeledirge,Fire,Ghost,,,,,,Ghost,,,Alluring Voice,Solar Beam,Seed Bomb,Zen Headbutt,Earthquake,Earth Power,Scorching Sands,Crunch,Bite,,,,,,,,,,,,,,,
+Slaking,Normal,,,RU,,,,,,,Shadow Ball,Shadow Claw,Play Rough,Solar Beam,Seed Bomb,X Scissor,Zen Headbutt,Hard Press,Heavy Slam,Reversal,Focus Blast,Low Kick,Hammer Arm,Dynamic Punch,Body Press,Brick Break,Drain Punch,Low Sweep,Earthquake,Throat Chop,Lash Out,Sucker Punch,Night Slash,Knock Off
+Slither Wing,Bug,Fighting,,RU,,,,Bug,Fighting,,Giga Drain,Zen Headbutt,Heavy Slam,Earthquake,,,,,,,,,,,,,,,,,,,,
+Slowbro-Galar,Poison,Psychic,,RU,,,,Psychic,,,Shadow Ball,Surf,Muddy Water,Liquidation,Scald,Waterfall,Dive,Razor Shell,Brine,Hydro Pump,Grass Knot,Iron Tail,Focus Blast,Body Press,Brick Break,Drain Punch,Earthquake,Foul Play,,,,,,
+Slowking,Water,Psychic,,RU,,Yes,,Water,Psychic,,Shadow Ball,Grass Knot,Signal Beam,Iron Tail,Focus Blast,Dynamic Punch,Brick Break,Drain Punch,Earthquake,Foul Play,,,,,,,,,,,,,,
+Snorlax,Normal,,,RU,,,,,,,Shadow Ball,Hydro Pump,Surf,Solar Beam,Seed Bomb,Psychic,Zen Headbutt,Hard Press,Heavy Slam,Iron Head,Focus Blast,Superpower,Hammer Arm,Dynamic Punch,Body Press,Submission,Brick Break,Earthquake,Darkest Lairat,Crunch,,,,
+Solrock,Rock,Psychic,,RU,,,,Psychic,,,Shadow Ball,Grass Knot,Solar Beam,Signal Beam,Gyro Ball,Iron Head,Earthquake,,,,,,,,,,,,,,,,,
+Spinda,Normal,,,RU,,,,,,,Shadow Ball,Psychic,Zen Headbutt,Psycho Cut,Low Kick,Superpower,Dynamic Punch,Brick Break,Drain Punch,Sucker Punch,,,,,,,,,,,,,,
+Starmie,Water,Psychic,,RU,,,,Water,Psychic,,Dazzling Gleam,Grass Knot,Signal Beam,Gyro Ball,Flash Cannon,,,,,,,,,,,,,,,,,,,
+Steelix,Steel,Ground,,RU,,,,Steel,Ground,,Aqua Tail,Psychic Fangs,Body Press,Crunch,Dark Pulse,Payback,,,,,,,,,,,,,,,,,,
+Stoutland,Normal,,,RU,,,,,,,Shadow Ball,Play Rough,Surf,Psychic Fangs,Iron Head,Reversal,Superpower,Stomping Tantrum,Crunch,Payback,,,,,,,,,,,,,,
+Stunfisk,Ground,Electric,,RU,,,,Ground,,,Aqua Tail,Surf,Muddy Water,Scald,Revenge,Foul Play,Lash Out,Sucker Punch,Payback,,,,,,,,,,,,,,,
+Stunfisk-Galar,Ground,Steel,,RU,,,,Ground,Steel,,Surf,Muddy Water,Scald,Revenge,Foul Play,Crunch,Lash Out,Sucker Punch,Payback,,,,,,,,,,,,,,,
+Sudowoodo,Rock,,,RU,,,,,,,Grass Knot,Wood Hammer,Low Kick,Hammer Arm,Dynamic Punch,Body Press,Brick Break,Drain Punch,Low Sweep,Earthquake,Earth Power,Foul Play,Sucker Punch,,,,,,,,,,,
+Suicune,Water,,,RU,,,,Water,,,Shadow Ball,Signal Beam,Extrasensory,Iron Tail,Iron Head,Crunch,,,,,,,,,,,,,,,,,,
+Swalot,Poison,,,RU,,,,,,,Shadow Ball,Giga Drain,Solar Beam,Seed Bomb,Bullet Seed,Zen Headbutt,Body Press,Dynamic Punch,Body Press,Brick Break,Earthquake,Knock Off,,,,,,,,,,,,
+Swampert,Water,Ground,,RU,,,,Water,Ground,,Hard Press,Iron Tail,Focus Blast,Low Kick,Superpower,Hammer Arm,Dynamic Punch,Body Press,Brick Break,Darkest Lairat,Knock Off,,,,,,,,,,,,,
+Swoobat,Psychic,Flying,,RU,,,,Psychic,,,Shadow Ball,Energy Ball,Giga Drain,Signal Beam,Uturn,Gyro Ball,Steel Wing,Knock Off,,,,,,,,,,,,,,,,
+Sylveon,Fairy,,,RU,,,,Fairy,,,Shadow Ball,Synchronoise,Psychic,Psyshock,Stored Power,Iron Tail,,,,,,,,,,,,,,,,,,
+Tangrowth,Grass,,,RU,,,,Grass,,,Focus Blast,Brick Break,Earthquake,Knock Off,Payback,,,,,,,,,,,,,,,,,,,
+Tapu Bulu,Grass,Fairy,,RU,,,,Grass,Fairy,,Megahorn,Zen Headbutt,Stored Power,Smart Strike,Close Combat,Focus Blast,Superpower,Brick Break,Revenge,High Horsepower,Darkest Lairat,Payback,,,,,,,,,,,,
+Tauros,Normal,,,RU,,,,,,,Shadow Ball,Surf,Solar Beam,Megahorn,Zen Headbutt,Iron Tail,Iron Head,Smart Strike,Reversal,Close Combat,Revenge,Earthquake,Throat Chop,Lash Out,Payback,,,,,,,,,
+Tauros-Paldea-Aqua,Fighting,Water,,RU,,,,Fighting,Water,,Zen Headbutt,Iron Head,Smart Strike,Earthquake,Drill Run,Lash Out,,,,,,,,,,,,,,,,,,
+Tauros-Paldea-Blaze,Fighting,Fire,,RU,,,,Fighting,,,Zen Headbutt,Iron Head,Smart Strike,Earthquake,Drill Run,Lash Out,,,,,,,,,,,,,,,,,,
+Tauros-Paldea-Combat,Fighting,,,RU,,,,Fighting,,,Surf,Zen Headbutt,Iron Head,Smart Strike,Earthquake,Drill Run,Lash Out,Throat Chop,,,,,,,,,,,,,,,,
+Thievul,Dark,,,RU,,,,Dark,,,Shadow Ball,Shadow Claw,Play Rough,Grass Knot,Uturn,Psychic,,,,,,,,,,,,,,,,,,
+Throh,Fighting,,,RU,,,,Fighting,,,Grass Knot,Zen Headbutt,Earthquake,Knock Off,Payback,,,,,,,,,,,,,,,,,,,
+Thundurus,Electric,Flying,,RU,,,,,,,Grass Knot,Uturn,Psychic,Zen Headbutt,Iron Tail,Flash Cannon,Smart Strike,Focus Blast,Superpower,Hammer Arm,Brick Break,Revenge,Foul Play,Crunch,Dark Pulse,Lash Out,Knock Off,Payback,,,,,,
+Toedscruel,Ground,Grass,,RU,,,,Ground,Grass,,Hex,Dazzling Gleam,Lunge,Skitter Smack,Flash Cannon,Earth Power,Foul Play,Knock Off,,,,,,,,,,,,,,,,
+Togedemaru,Electric,Steel,,RU,,,,Steel,,,Grass Knot,Uturn,Pin Missile,Zen Headbutt,Reversal,Payback,,,,,,,,,,,,,,,,,,
+Togekiss,Fairy,Flying,,RU,,,,Fairy,,,Shadow Ball,Grass Knot,Solar Beam,Signal Beam,Future Sight,Psychic,Extrasensory,Psyshock,Zen Headbutt,Stored Power,Steel Wing,Smart Strike,Aura Sphere,Brick Break,Drain Punch,,,,,,,,,
+Tornadus,Flying,,,RU,,,,,,,Grass Knot,Uturn,Psychic,Extrasensory,Iron Tail,Reversal,Focus Blast,Superpower,Hammer Arm,Brick Break,Revenge,Foul Play,Crunch,Dark Pulse,Lash Out,Knock Off,Payback,,,,,,,
+Torterra,Grass,Ground,,RU,Yes,,,Grass,Ground,,Zen Headbutt,Hard Press,Heavy Slam,Iron Tail,Iron Head,Superpower,Body Press,Crunch,,,,,,,,,,,,,,,,
+Toxicroak,Poison,Fighting,,RU,,Yes,,Fighting,,,Shadow Ball,Shadow Claw,X Scissor,Bullet Punch,Earthquake,Foul Play,Dark Pulse,Throat Chop,Lash Out,Sucker Punch,Knock Off,Payback,,,,,,,,,,,,
+Toxtricity,Electric,Poison,,RU,,,,,,,Hex,Psychic Noise,Stored Power,Brick Break,Drain Punch,Throat Chop,Payback,,,,,,,,,,,,,,,,,
+Trevenant,Ghost,Grass,,RU,,,,Ghost,Grass,,X Scissor,Skitter Smack,Psychic,Psychic Noise,Focus Blast,Drain Punch,Earthquake,Foul Play,Dark Pulse,Lash Out,Sucker Punch,Knock Off,,,,,,,,,,,,
+Tropius,Grass,Flying,,RU,,,,Grass,,,Uturn,Zen Headbutt,Steel Wing,Body Press,Earthquake,Stomping Tantrum,,,,,,,,,,,,,,,,,,
+Tsareena,Grass,,,RU,,Yes,,Grass,,,Play Rough,Dazzling Gleam,Uturn,Zen Headbutt,High Jump Kick,Low Kick,Low Sweep,Knock Off,Payback,,,,,,,,,,,,,,,
+Turtonator,Fire,Dragon,,RU,,,,,,,Solar Beam,Heavy Slam,Iron Tail,Flash Cannon,Iron Head,Focus Blast,Body Press,Revenge,Earthquake,Stomping Tantrum,Scorching Sands,Lash Out,Payback,,,,,,,,,,,
+Typhlosion,Fire,,,RU,,,,,,,Shadow Ball,Shadow Claw,Play Rough,Solar Beam,Extrasensory,Zen Headbutt,Gyro Ball,Iron Tail,Iron Head,Reversal,Focus Blast,Low Kick,Dynamic Punch,Submission,Brick Break,Earthquake,Scorching Sands,Throat Chop,,,,,,
+Typhlosion-Hisui,Fire,Ghost,,RU,,,,Ghost,,,Play Rough,Solar Beam,Extrasensory,Zen Headbutt,Gyro Ball,Iron Tail,Iron Head,Reversal,Focus Blast,Low Kick,Submission,Brick Break,Earthquake,,,,,,,,,,,
+Tyranitar,Rock,Dark,,RU,,,,Dark,,,Shadow Claw,Hydro Pump,Aqua Tail,Surf,Muddy Water,Heavy Slam,Iron Tail,Iron Head,Focus Blast,Low Kick,Superpower,Dynamic Punch,Brick Break,Earthquake,Earth Power,,,,,,,,,
+Tyrantrum,Rock,Dragon,,RU,Yes,,,,,,Play Rough,Psychic Fangs,Zen Headbutt,Iron Tail,Iron Head,Close Combat,Brick Break,Earthquake,Earth Power,Crunch,,,,,,,,,,,,,,
+Umbreon,Dark,,,RU,,,,Dark,,,Shadow Ball,Alluring Voice,Psychic,Stored Power,Iron Tail,,,,,,,,,,,,,,,,,,,
+Uxie,Psychic,,,RU,,,,Psychic,,,Shadow Ball,Play Rough,Dazzling Gleam,Grass Knot,Solar Beam,Energy Ball,Giga Drain,Signal Beam,Uturn,Iron Tail,Drain Punch,Foul Play,Knock Off,,,,,,,,,,,
+Vaporeon,Water,,,RU,,Yes,,Water,,,Shadow Ball,Alluring Voice,Signal Beam,Synchronoise,Stored Power,Iron Tail,,,,,,,,,,,,,,,,,,
+Venomoth,Bug,Poison,,RU,,,,Bug,,,Solar Beam,Energy Ball,Giga Drain,Psychic,Zen Headbutt,Psychic Noise,Psybeam,,,,,,,,,,,,,,,,,
+Vespiquen,Bug,Flying,,RU,,,,Bug,,,Hex,Psychic Noise,Reversal,Revenge,Beat Up,,,,,,,,,,,,,,,,,,,
+Virizion,Grass,Fighting,,RU,,,,Grass,Fighting,,Megahorn,X Scissor,Zen Headbutt,Smart Strike,,,,,,,,,,,,,,,,,,,,
+Vivillon,Bug,Flying,,RU,,,,Bug,,,Solar Beam,Energy Ball,Giga Drain,Psychic,Psybeam,,,,,,,,,,,,,,,,,,,
+Volbeat,Bug,,,RU,,,,Bug,,,Shadow Ball,Play Rough,Dazzling Gleam,Solar Beam,Giga Drain,Zen Headbutt,Dynamic Punch,Brick Break,,,,,,,,,,,,,,,,
+Walrein,Ice,Water,,RU,,,,Water,,,Signal Beam,Iron Tail,Iron Head,Body Press,Earthquake,Stomping Tantrum,Crunch,,,,,,,,,,,,,,,,,
+Watchog,Normal,,,RU,,,,,,,Shadow Ball,Aqua Tail,Grass Knot,Seed Bomb,Bullet Seed,Signal Beam,Zen Headbutt,Iron Tail,Focus Blast,Low Kick,Stomping Tantrum,Crunch,Knock Off,,,,,,,,,,,
+Whimsicott,Grass,Fairy,,RU,,,,Grass,Fairy,,Shadow Ball,Uturn,Psychic,Knock Off,Beat Up,,,,,,,,,,,,,,,,,,,
+Wigglytuff,Normal,Fairy,,RU,,,,Fairy,,,Shadow Ball,Bubble Beam,Grass Knot,Solar Beam,Energy Ball,Psychic,Expanding Force,Psyshock,Zen Headbutt,Psychic Noise,Gyro Ball,Dynamic Punch,Body Press,Brick Break,Drain Punch,Wake Up Slap,Dark Pulse,Knock Off,,,,,,
+Wishiwashi,Water,,,RU,,,,Water,,,Uturn,Iron Tail,Earthquake,,,,,,,,,,,,,,,,,,,,,
+Wo-Chien,Dark,Grass,,RU,,,,Dark,Grass,,Hex,Pollen Puff,Zen Headbutt,Body Press,,,,,,,,,,,,,,,,,,,,
+Wormadam,Bug,Grass,,RU,,,,Bug,Grass,,Shadow Ball,Psychic,Psybeam,Sucker Punch,,,,,,,,,,,,,,,,,,,,
+Wormadam-Sandy,Bug,Ground,,RU,,,,Bug,Ground,,Shadow Ball,Psychic,Psybeam,Sucker Punch,,,,,,,,,,,,,,,,,,,,
+Wormadam-Trash,Bug,Steel,,RU,,,,Bug,Steel,,Shadow Ball,Psychic,Psybeam,Sucker Punch,,,,,,,,,,,,,,,,,,,,
+Wyrdeer,Normal,Psychic,,RU,,Yes,,Psychic,,,Shadow Ball,Solar Beam,Energy Ball,Megahorn,Lunge,Signal Beam,Iron Tail,Jump Kick,Earthquake,High Horsepower,Earth Power,Throat Chop,Sucker Punch,,,,,,,,,,,
+Xatu,Psychic,Flying,,RU,,,,Psychic,,,Shadow Ball,Dazzling Gleam,Grass Knot,Solar Beam,Giga Drain,Signal Beam,Uturn,Steel Wing,Foul Play,Sucker Punch,,,,,,,,,,,,,,
+Yanmega,Bug,Flying,,RU,,,,Bug,,,Shadow Ball,Solar Beam,Giga Drain,Psychic,Psychic Noise,Reversal,Crunch,Night Slash,,,,,,,,,,,,,,,,
+Zangoose,Normal,,,RU,,,,,,,Shadow Ball,Shadow Claw,Surf,Grass Knot,Solar Beam,Seed Bomb,Giga Drain,X Scissor,Zen Headbutt,Reversal,Close Combat,Focus Blast,Low Kick,Dynamic Punch,Aura Sphere,Brick Break,Low Sweep,Revenge,Throat Chop,Night Slash,Knock Off,Payback,Power Trip,
+Zarude,Dark,Grass,,RU,,,,Dark,Grass,,Uturn,Iron Tail,Close Combat,Low Kick,Hammer Arm,Low Sweep,Revenge,Stomping Tantrum,,,,,,,,,,,,,,,,
+Zebstrika,Electric,,,RU,,,,,,,Signal Beam,Smart Strike,Low Kick,High Horsepower,,,,,,,,,,,,,,,,,,,,
+Zoroark,Dark,,,RU,,,,Dark,,,Shadow Ball,Shadow Claw,Hex,Grass Knot,Uturn,Skitter Smack,Psychic,Extrasensory,Focus Blast,Low Kick,Brick Break,Revenge,,,,,,,,,,,,
