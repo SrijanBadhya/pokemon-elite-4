@@ -1,11 +1,33 @@
 For Version 2.0:
 
 
+DONE sorting by stab score
+DONE counting freeze dry as stab
+DONE grouping moves of the same type together
+
+
+
+IN EVERY TABLE, SORT BY 3 THINGS (because I can't be bothered to do permutation combination and do so many different tables.)
+
+
+Sort by stab. This means that mons with both types super effective on the 4 elite should be at the top of the tables, mons with one type supereffective should be in the middle, and mons with none should be at the bottom.
+
+Keep in mind that freeze dry is electric type. (tbh maybe this isn't so consequential after all) (changed this to freeze dry type)
+
+GROUP THE MOVES BY TYPES SO THAT ALL DARK MOVES ARE TOGETHER, FAIRY MOVES ARE TOGETHER, ETC.
+
+
 
 - Display in different tables, usable mons. The first mons are the best mons with fantastic moves, all from one category, with no issues.
 The next tables are in descending order of power.
 
 
+
+FOR VERSION 2.0, I just want to display the best of the best. For versions 3.0 and beyond I want to display the less desirable mons too. And beyond, I will incorporate abilities like technician.
+
+
+
+For version 3.0
 
 - Incorporate physical/special knowledge.
 
@@ -51,7 +73,7 @@ I similarly want the full typing of the mon to be visible even if its typing isn
 okay this is the order of the tables:
 
 
-stab/nonstab
+stab/nonstab (nvm this is going to be used to sort every single table. (It comes pre sorted since the first sorting carries over)
 
 moves which require a condition before they're spammable (acrobatics, belch)
 
@@ -78,26 +100,8 @@ and print the full types of mons, and also have the current columns of the usefu
 Things like Lucario should be spared. Lucario can choose one stat and nature it too.
 
 
-Version 3.0
 
 
-
-IN EVERY TABLE, SORT BY 3 THINGS (because I can't be bothered to do permutation combination and do so many different tables.)
-
-
-Sort by stab. This means that mons with both types super effective on the 4 elite should be at the top of the tables, mons with one type supereffective should be in the middle, and mons with none should be at the bottom.
-
-
-Keep in mind that freeze dry is electric type. (tbh maybe this isn't so consequential after all)
-
-
-Once you've sorted by stab, sort by the 
-
-
-
-
-
-GROUP THE MOVES BY TYPES SO THAT ALL DARK MOVES ARE TOGETHER, FAIRY MOVES ARE TOGETHER, ETC.
 
 For version 4.0:
 
@@ -114,20 +118,22 @@ Cuz like florges has only bug, psychic, grass, and fairy moves, so the moment yo
 
 
 
-
-I want to give some higher weightage to huge power, iron fist, strong jaw, and sheer force.
-
+For version 5.0
 
 
+I want to give some higher weightage to huge power, iron fist, strong jaw, and sheer force. And technician
+incorporate abilities
 
 
-For version 4.0
+
+
+For version 6.0
 
 
 Package this into something nice, with GUI possibly. Deploy the application.
 
 
-For version 5.0
+For version 7.0
 
 Incorporate priority and pivot
 
