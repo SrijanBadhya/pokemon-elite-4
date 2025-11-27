@@ -178,7 +178,7 @@ Package this into something nice, with GUI possibly. Deploy the application.
 
 For version 7.0
 
-Incorporate priority and pivot
+Incorporate priority and pivot (and stealth rock setting) (and hazard removal)
 
 
 
@@ -194,6 +194,22 @@ map the moves to the mons, so that maybe later we can just randomly filter the m
 oh wait, maybe we can make a column for mons called, "Priority", and inside that we can put in a list of the priority moves they have, others will be null
 
 so then in our regular filter we can just see good e4 mons, and also particularly see the good e4 mons which have priority
+
+
+
+
+(man, maybe for the mons which already have ground coverage against electric and have qualified to be in the elite 4, we also need to display the rock coverage they have for problematic mons like zapdos and rotom heat)
+(maybe this will be too complicated because we also need to display grass coverage for rotom etc)
+
+
+
+
+
+Maybe when you're likely to bring a sun team (like when ice or water or rock or ground is one of the types), (or especially when fire is one of the types good against one of the elite), then allow solar beam and solar blade to bypass the two turn clause and get seen as desirable moves? (when some elite is weak to grass ofc)
+
+
+
+maybe have it print my elite somewhere at the top so that I don't have to remember everytime
 
 
 
