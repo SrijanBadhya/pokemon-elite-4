@@ -62,7 +62,7 @@ so dynamic punch missing is ignored by no guard. Low base power is ignored by te
 zap cannon is also ignored by no guard.
 
 
-yeah actually, I GOT IT. Let's make moves protected by ability. So everytime we run the move deleing function, just pass a condition: If this move is not protected by this mon's ability, then drop it. (so before this we must first run a scan to build the list of which moves are ability protected). (also combine multiple abilities somehow, like when a mon learns both technician and strong jaw. (or technician and skill link)
+yeah actually, I GOT IT. Let's make moves protected by ability. So everytime we run the move deleting function, just pass a condition: If this move is not protected by this mon's ability, then drop it. (so before this we must first run a scan to build the list of which moves are ability protected). (also combine multiple abilities somehow, like when a mon learns both technician and strong jaw. (or technician and skill link)
 
 hmmm okay the tables should be printed again and again through a function. a function which inputs the current dataframe and the selection criteria.
 I think current dataframe should update itself over and over since mons are getting subtracted from it each time.
@@ -84,7 +84,7 @@ stab/nonstab (nvm this is going to be used to sort every single table. (It comes
 moves which require a condition before they're spammable (acrobatics, belch)
 
 
-moves which appreciate loaded dice/ skill link
+moves which appreciate loaded dice/ skill link (or maybe we can also do mons cuz often a mon which learns one learns another?)
 
 hit back moves (avalanche, revenge, I think payback, look at others)
 
