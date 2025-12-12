@@ -34,6 +34,10 @@ For version 3.0
 
 okay I'm deciding on the physical special split by using base stats. Also sorting the mons based on base stats.
 
+
+I KNOW I'VE SPLIT PHY AND SPECIAL SETS OF THE SAME MONS. BUT WHAT IF I CHOSE TO NOT FILTER FURTHER, AND JUST DID THE FIRST FILTER AND SPLIT DIRECTLY WITHOUT FILTERING (okay maybe this just unnecessarily increases the number of mons, let's prevent a mon from having to use choice specs etc.
+
+
 one filter should also make sure that a type is stab supereffective for a mon (but also remember that freeze dry is electric type and needs to be counted as stab)
 
 
