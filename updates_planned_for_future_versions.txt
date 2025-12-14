@@ -60,6 +60,8 @@ stuff like acrobatics, belch, stored power, Reversal, pursuit(ig?), power trip,
 
 
 
+Remove bulldoze for all the mons with earthquake or high horsepower
+
 
 Now that I think about it, some moves should have a category that says 'ignored by'.
 so dynamic punch missing is ignored by no guard. Low base power is ignored by technician. (and sometimes by strong jaw, sheer force, etc)
