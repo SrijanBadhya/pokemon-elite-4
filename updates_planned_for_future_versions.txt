@@ -61,6 +61,7 @@ stuff like acrobatics, belch, stored power, Reversal, pursuit(ig?), power trip,
 
 
 Remove bulldoze for all the mons with earthquake or high horsepower
+maybe rock tomb similarly,but breloom needs it lol
 
 
 Now that I think about it, some moves should have a category that says 'ignored by'.
@@ -260,3 +261,12 @@ vectorized method usually means you create another column, like df['result']=df[
 
 
 copy paste technician mons before and after all the move deletions so that they don't lose their moves
+
+
+
+
+add something for sets which involve the goofy stat of a mon (the weaker stat), and sort based on this, so that I am not recommended physical duraludon at the top.
+Be careful about nidoking maybe
+
+also maybe have a type specific extra, like showing rock moves for electric because you wanna see what can hit zapdos too
+
