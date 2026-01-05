@@ -158,7 +158,7 @@ Meloetta,Normal,Psychic,Fighting,,128,128,,,RU,,,,Fighting,,,Grass Knot,Energy B
 Metagross,Steel,Psychic,,,135,95,,,RU,,Yes,,Steel,,,Sludge Bomb,Grass Knot,Signal Beam,Ice Punch,Meteor Beam,Stone Edge,Rock Slide,Hammer Arm,Dynamic Punch,Body Press,Brick Break,Earthquake,,,,,,,,,,,,,,,,
 Milotic,Water,,,,60,100,,,RU,,,,Water,,,Skitter Smack,Ice Beam,Avalanche,Triple Axel,Iron Head,,,,,,,,,,,,,,,,,,,,,,,
 Miltank,Normal,,,,80,40,,,RU,,,,,,,Belch,Surf,Solar Beam,Fire Punch,Ice Beam,Ice Punch,Gyro Ball,Heavy Slam,Iron Tail,Iron Head,Rock Slide,Reversal,Focus Blast,Hammer Arm,Dynamic Punch,Body Press,Brick Break,Wake Up Slap,Earthquake,,,,,,,,,
-Minior,Rock,Flying,,,100,100,,,RU,,,,Rock,Flying,,Solar Beam,Uturn,Gyro Ball,Iron Head,Earthquake,Earth Power,Scorching Sands,,,,,,,,,,,,,,,,,,,,,
+Minior,Rock,Flying,,,100,100,,,RU,,Yes,,Rock,Flying,,Solar Beam,Uturn,Gyro Ball,Iron Head,Earthquake,Earth Power,Scorching Sands,,,,,,,,,,,,,,,,,,,,,
 Mismagius,Ghost,,,,60,105,,,RU,Yes,,,,,,Grass Knot,Energy Ball,Inferno,Mystical Fire,Burning Jealousy,Power Gem,,,,,,,,,,,,,,,,,,,,,,
 Morpeko,Electric,Dark,,,95,70,,,RU,,,,,,,Seed Bomb,Bullet Seed,Fire Fang,Ice Fang,Reversal,Brick Break,Revenge,Stomping Tantrum,,,,,,,,,,,,,,,,,,,,
 Mr. Rime,Ice,Psychic,,Freeze Dry,85,110,,,RU,,,,Ice,,,Grass Knot,Energy Ball,Solar Beam,Signal Beam,Freeze Dry,Focus Blast,Brick Break,Drain Punch,Wake Up Slap,Stomping Tantrum,,,,,,,,,,,,,,,,,,
@@ -209,7 +209,7 @@ Registeel,Steel,,,,75,75,,,RU,Yes,,,Steel,,,Ice Spinner,Ice Punch,Meteor Beam,Ro
 Relicanth,Water,Rock,,,90,45,,,RU,Yes,,,Water,Rock,,Ice Beam,Bounce,Body Press,Earthquake,Earth Power,,,,,,,,,,,,,,,,,,,,,,,
 Reuniclus,Psychic,,,,65,125,,,RU,,,,,,,Grass Knot,Energy Ball,Fire Punch,Signal Beam,Ice Punch,Gyro Ball,Flash Cannon,Rock Slide,Focus Blast,Superpower,Hammer Arm,Drain Punch,,,,,,,,,,,,,,,,
 Rhyperior,Ground,Rock,,,140,55,,,RU,,,,Ground,Rock,,Poison Jab,Hydro Pump,Aqua Tail,Surf,Bubble Beam,Heat Crash,Flamethrower,Fire Punch,Temper Flare,Fire Fang,Megahorn,Ice Beam,Ice Punch,Ice Fang,Avalanche,Heavy Slam,Iron Tail,Flash Cannon,Iron Head,Smart Strike,Reversal,Focus Blast,Superpower,Hammer Arm,Dynamic Punch,Body Press,Submission,Brick Break
-Sableye,Dark,Ghost,,,75,65,,,RU,,,,,,,Poison Jab,Octazooka,Energy Ball,Giga Drain,Fire Punch,X Scissor,Signal Beam,Skitter Smack,Ice Punch,Gyro Ball,Power Gem,Low Kick,Dynamic Punch,Brick Break,Drain Punch,Low Sweep,,,,,,,,,,,,
+Sableye,Dark,Ghost,,,75,65,,,RU,,Yes,,,,,Poison Jab,Octazooka,Energy Ball,Giga Drain,Fire Punch,X Scissor,Signal Beam,Skitter Smack,Ice Punch,Gyro Ball,Power Gem,Low Kick,Dynamic Punch,Brick Break,Drain Punch,Low Sweep,,,,,,,,,,,,
 Samurott,Water,,,,100,108,,,RU,,,,Water,,,Grass Knot,Megahorn,X Scissor,Ice Beam,Avalanche,Air Slash,Iron Tail,Smart Strike,Superpower,Sacred Sword,Brick Break,Revenge,Vacuum Wave,Drill Run,,,,,,,,,,,,,,
 Sandslash-Alola,Ice,Steel,,,100,25,,,RU,,,,Ice,Steel,,Poison Jab,Aqua Tail,Leech Life,X Scissor,Pin Missile,Rock Slide,Focus Blast,Low Kick,Brick Break,Earthquake,Drill Run,,,,,,,,,,,,,,,,,
 Sawk,Fighting,,,,125,30,,,RU,,,,Fighting,,,Poison Jab,Grass Knot,Fire Punch,Ice Punch,Stone Edge,Rock Slide,Earthquake,,,,,,,,,,,,,,,,,,,,,

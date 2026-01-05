@@ -275,3 +275,8 @@ also maybe have a type specific extra, like showing rock moves for electric beca
 maybe manual sun + solar beam is extremely viable for ground, rock, water which often run weather
 
 
+# there are actually a bunch of moves which become buffed with some condition, like brine, hex, venoshock, acrobatics. I should think about something.
+# belch works only when a condition is met.
+# acrobatics condition is easy, so I've already given it 110 power. Maybe I should exclude it from this move list altogether.
+
+
